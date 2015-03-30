@@ -1,0 +1,58 @@
+<!-- Static navbar -->
+      <nav class="navbar navbar-custom">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li ><a href="{{ site.baseurl }}{{ post.url }}/">Home</a></li>
+              <li class="dropdown">
+              <a href="{{ site.baseurl }}{{ post.url }}/about-selectusa.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About SelectUSA </a>
+              <ul class="dropdown-menu" role="menu">
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/reading-room.html">Reading Room</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/selectusa-leadership.html">SelectUSA Leadership</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/career-opportunities.html">Career Opportunities</a></li>
+                </ul>
+                <li class="dropdown">
+              <a href="{{ site.baseurl }}{{ post.url }}/why-select-usa.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Why Select USA?</a>
+              <ul class="dropdown-menu" role="menu">
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/investment-incentives.html">Federal Incentives</a></li>
+                  <li><a href="http://selectusa.stateincentives.org/?referrer=selectusa">State and Territory Incentives</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/they-chose-usa.html">Testimonials</a></li>
+                </ul>
+    
+              <li class="dropdown">
+                <a href="{{ site.baseurl }}{{ post.url }}/services.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services </a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/business-solutions-investors.html">Business Solutions for Investors</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/ombudsman-services.html">Ombudsman</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/advocacy-service.html">Advocacy</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/single-location-promotion.html">Single Location Promotion</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/facilitated-investment-mission.html">Facilitated Investment Mission</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/economic-development-organization-counseling.html">Economic Development Organization Counseling</a></li>
+                </ul>
+              </li>
+              <li><a href="{{ site.baseurl }}{{ post.url }}/industry-snapshots.html">Industries</a></li>
+              <li class="dropdown">
+                <a href="{{ site.baseurl }}{{ post.url }}/resources.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Resources </a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/business-investment-reports.html">Reports</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/news.html">News</a></li>
+                </ul>
+              <li><a href="http://www.selectusasummit.com">2015 Summit</a></li>
+              <li class="dropdown">
+                <a href="{{ site.baseurl }}{{ post.url }}/events.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Events </a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/events.html">Upcoming</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}/past-events.html">Past</a></li>
+                </ul>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>

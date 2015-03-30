@@ -1,0 +1,25 @@
+<!-- Carousel
+================================================== -->
+  <div id="Carousel" class="carousel slide carousel-fade">
+       
+
+        <div class="carousel-inner">
+            <div class="item active">
+                <img src="images/featuredStreet.jpg" alt="Featured Street"  />
+            </div>
+           <div class="item">
+             <img src="images/featuredHarbor.jpg" alt="Featured Clouds"   />
+            </div>
+           <div class="item">
+             <img src="images/featuredCity.jpg" alt="Featured City"  />
+            </div>
+        </div>
+
+        <a class="left carousel-control" href="#Carousel" data-slide="prev">
+            
+        </a>
+        <a class="right carousel-control" href="#Carousel" data-slide="next">
+            
+        </a>
+</div>
+<!-- /.carousel -->

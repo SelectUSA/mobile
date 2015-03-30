@@ -1,0 +1,14 @@
+name: Website
+pygments: true
+markdown: rdiscount
+exclude:
+  - .bundle
+  - .git
+  - .gitignore
+  - bin
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+collections:
+- events
