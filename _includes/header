@@ -5,8 +5,27 @@
           <a href="{{ site.baseurl }}{{ post.url }}/" class="navbar-brand"><img src="images/logo.png" ></a>
           
         </div>
-        <div class="collapse navbar-collapse" id="navbar-collapse1" style="background:transparent;padding:0;margin-bottom:-40px;">
         
+        
+        <div class="collapse navbar-collapse" id="navbar-collapse1" style="background:transparent;padding:0;margin-bottom:-45px;">
+        <!-- Extra small button group -->
+<div class="btn-group pull-right" style="margin-top:5px;">
+  <button class="btn btn-default btn-xs dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">
+    language <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" role="menu">
+    <li><a href="#">English</a></li>
+<li><a href="#">Arabic</a></li>
+<li><a href="#">Chinese (Simplified)</a></li>
+<li><a href="#">Chinese (Traditional)</a></li>
+<li><a href="#">French</a></li>
+<li><a href="#">German</a></li>
+<li><a href="#">Japanese</a></li>
+<li><a href="#">Korean</a></li>
+<li><a href="#">Portuguese</a></li>
+<li><a href="#">Spanish</a></li>
+  </ul>
+</div>
           <ul class="nav navbar-nav navbar-right">
              <li><a href="{{ site.baseurl }}{{ post.url }}/frequently-asked-questions.html" title="Faqs" style="font-size:10px;color:#282828">FREQUENTLY ASKED QUESTIONS</a></li>
              <li><a href="{{ site.baseurl }}{{ post.url }}/contact-us.html" title="Contact" style="font-size:10px;color:#282828">CONTACT US</a></li>
@@ -15,12 +34,13 @@
            </ul>
         </div>	
         <form class="navbar-form pull-right">
-              <div class="input-group">
-                <input type="text" class="form-control" name="srch-term" id="srch-term">
+<div class="input-group form-group-sm">
+                <input type="text" class="form-control input-sm" name="srch-term" id="srch-term">
                 <div class="input-group-btn">
-                  <button class="btn btn-default btn-primary" type="submit" >SEARCH</button>
+                  <button class="btn btn-default btn-primary input-sm" type="submit" >SEARCH</button>
                 </div>
               </div>
           </form>
+          
      </div>	
 </nav>

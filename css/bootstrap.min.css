@@ -3854,14 +3854,19 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 .nav>li>a {
     position:relative;
     display:block;
-    padding:10px 16px
+    padding:10px 20px
+}
+
+#navbar-collapse1 .nav{
+margin-top:0px;
+	margin-right:10px;
 }
 
 #navbar-collapse1 .nav>li>a {
+
     position:relative;
     display:block;
-    padding-top:10px;
-    padding-left: 3px
+    padding: 7px;
 }
 
 #navbar-collapse1 .nav>li>a:hover {
