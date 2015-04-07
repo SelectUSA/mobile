@@ -25,8 +25,8 @@ font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 .header .navbar-collapse {background-color:#ffffff;}
 .btn,.form-control,.panel,.list-group,.well {border-radius:1px;box-shadow:0 0 0;}
 .form-control {border-color:#d7d7d7;}
-.btn-primary {border-color:transparent;}
-.btn-primary,.label-primary,.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {background-color:#A5A5A5;}
+.btn-primary {border-color:transparent;font-size:12px;}
+.btn-primary,.label-primary,.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {background-color:#036;}
 .btn-plus {background-color:#ffffff;border-width:1px;border-color:#dddddd;box-shadow:1px 1px 0 #999999;border-radius:3px;color:#666666;text-shadow:0 0 1px #bbbbbb;}
 .well,.panel {  background: #FDFDFD;border: 1px solid #E0E0E0;}
 .btn-success,.label-success,.progress-bar-success{background-color:#65b045;}
@@ -49,7 +49,7 @@ textarea {
  background-color:#FDFDFD;
  font-weight:700;
  font-size:16px;
- color:#262626;
+ color:#036;
  border-color:#ffffff;
 }
 .panel .panel-heading a {
@@ -141,9 +141,27 @@ width:300px;
 .state-list {
 display:inline-block;
 float:left;
-width:200px;
+width:150px;
 }
 
+.state-list li {
+list-style-type: none;
+}
+
+#map {
+margin-top:30px;
+width: 550px; height: 450px;
+margin-bottom:-100px;
+margin-left:30px;
+}
+
+
+
+.odd {
+    color: #204361;
+    padding: 2px;
+}
+ 
 @media (max-width: 768px) {
  #subnav {
   padding-top: 6px;
@@ -169,14 +187,15 @@ width:100%;
 color: #fff;
 }
 
-.navbar-brand {
-padding-left:15px;
-padding-right:15px;
+.navbar-brand img{
 }
 
 .navbar-custom {
 background-color:#969595;
 }
 
+ #map {
+display:none;
+}
 
 }

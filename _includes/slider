@@ -4,29 +4,50 @@
        
 
         <div class="carousel-inner">
-            <div class="item active">
-                <img src="images/new-hero1.jpg"  />
-                <div class="carousel-caption" >
-            <h3>Headline</h3>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-            <p><a class="btn btn-info btn-sm">Audience 1</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-info btn-sm">Audience 2</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-info btn-sm">Audience 3</a></p>
+            <div class="item active" >
+                <img src="images/nyc.jpg"  />
+                 <div class="carousel-caption">
+            <h3>Why Select the USA?</h3>
+            <p>Learn why the U.S. is the world’s top location for business and investment.</p>
+            <p><a class="btn btn-default btn-sm" style="background-color: rgba(245, 245, 245, 0.85);"><span class="glyphicon glyphicon-ok" aria-hidden="true" style="color:#903539;"></span> SELECTUSA</a></p>
+          </div>
+                <!--<div class="carousel-caption" style="left:50px;background-color: rgba(245, 245, 245, 0.8);max-width:225px;height:250px;padding: 0 15px;color:#343434; text-shadow:none;">
+            		<h3>Why Select the USA?</h3>
+            		<p>Learn why the U.S. is the world’s top location for business and investment.</p>
+            		<p><a class="btn btn-default btn-large"><span class="glyphicon glyphicon-ok" aria-hidden="true" style="color:#903539;"></span> SELECTUSA</a></p>
+          		</div>
+          		
+          		<div class="carousel-caption" style="left:300px;background-color: rgba(245, 245, 245, 0.8);max-width:225px;height:250px;padding: 0 15px;color:#343434; text-shadow:none;">
+            		<h3>Federal Programs and Incentives for Business</h3>
+            		<p>Programs and incentives to help your business succeed.</p>
+            		<p><a class="btn btn-default btn-large"><span class="glyphicon glyphicon-ok" aria-hidden="true" style="color:#903539;"></span> FIND OUT MORE</a></p>
+          		</div>
+          		
+          		<div class="carousel-caption" style="left:550px;background-color: rgba(245, 245, 245, 0.8);max-width:225px;height:250px;padding: 0 15px;color:#343434; text-shadow:none;">
+            		<h3>They Chose the USA</h3>
+            		<p>Learn why business is choosing America to expand and invest</p>
+            		<p><a class="btn btn-default btn-large"><span class="glyphicon glyphicon-ok" aria-hidden="true" style="color:#903539;"></span> CHOOSE USA</a></p>
+          		</div>-->
+          		
+          		
+          
+            </div>
+           <div class="item">
+             <img src="images/harbor.jpg" alt="Featured Clouds"   />
+             <div class="carousel-caption">
+            <h3>Federal Programs and Incentives for Business</h3>
+            <p>Programs and incentives to help your business succeed.</p>
+            <p><a class="btn btn-default btn-sm" style="background-color: rgba(245, 245, 245, 0.85);"><span class="glyphicon glyphicon-ok" aria-hidden="true" style="color:#903539;"></span> FIND OUT MORE</a></p>
           </div>
             </div>
            <div class="item">
-             <img src="images/featuredHarbor.jpg" alt="Featured Clouds"   />
+             <img src="images/dc.jpg" alt="Featured City"  />
              <div class="carousel-caption">
-            <h3>Headline</h3>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-            <p><a class="btn btn-info btn-sm">Audience 1</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-info btn-sm">Audience 2</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-info btn-sm">Audience 3</a></p>
+            <h3>They Chose the USA</h3>
+            <p>Learn why business is choosing America to expand and invest</p>
+            <p><a class="btn btn-default btn-sm" style="background-color: rgba(245, 245, 245, 0.85);"><span class="glyphicon glyphicon-ok" aria-hidden="true" style="color:#903539;"></span> CHOOSE USA</a></p>
           </div>
-            </div>
-           <div class="item">
-             <img src="images/featuredCity.jpg" alt="Featured City"  />
-             <div class="carousel-caption">
-            <h3>Headline</h3>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-            <p><a class="btn btn-info btn-sm">Audience 1</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-info btn-sm">Audience 2</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-info btn-sm">Audience 3</a></p>
-          </div>
+          
             </div>
         </div>
 

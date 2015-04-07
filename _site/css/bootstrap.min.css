@@ -273,8 +273,8 @@ select {
 
 @font-face {
     font-family:'Glyphicons Halflings';
-    src:url(../fonts/glyphicons-halflings-regular.eot);
-    src:url(../fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),url(../fonts/glyphicons-halflings-regular.woff) format("woff"),url(../fonts/glyphicons-halflings-regular.ttf) format("truetype"),url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
+    src:url(http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.eot);
+    src:url(http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),url(http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.woff) format("woff"),url(http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.ttf) format("truetype"),url(http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
 }
 
 .glyphicon {
@@ -3891,8 +3891,8 @@ margin-top:0px;
 }
 
 .nav .open>a,.nav .open>a:hover,.nav .open>a:focus {
-    background-color:#4D4D4D;
-    border-color:#428bca
+    background-color:#6C6B6B;
+    
 }
 
 .nav .nav-divider {
@@ -4450,7 +4450,7 @@ padding:10px 15px;
 }
 
 .navbar-custom {
-	background-color:#5F5F5F;
+	background-color:#878686;
     color:#ffffff;
     font-weight:bold;
   	border-radius:0;
@@ -4469,7 +4469,7 @@ padding:10px 15px;
       
 .navbar-custom .navbar-nav > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    background-color: #4C4C4C;
+    background-color: #6C6B6B;
 }
       
 .navbar-custom .navbar-brand {

@@ -83,9 +83,27 @@
     
 
     {
+      "title"    : "SELECTUSA FORUM & EXPO IN SPAIN",
+      "url"     : "/events/selectusa-forum-expo-spain.html",
+"rowdiv": "odd",     
+      "location" : "Madrid, Spain",
+      "startdate" : "Wed, 05/19/2015",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2015-05-19 00:00:00 -0400",
+         "day"   : "19",
+         "month" : "May",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "SelectUSA at BIO 2015",
       "url"     : "/events/selectusa-bio-2015.html",
-"rowdiv": "odd",     
+"rowdiv": "even",     
       "location" : "Philadelphia, PA",
       "startdate" : "Mon, 06/15/2015",
 "enddate" : " - Thu, 06/18/2015",
@@ -103,7 +121,7 @@
     {
       "title"    : "SelectUSA at the International Franchise Expo",
       "url"     : "/events/selectusa-international-franchise-expo.html",
-"rowdiv": "even",     
+"rowdiv": "odd",     
       "location" : "New York, NY",
       "startdate" : "Thu, 06/18/2015",
 "enddate" : " - Sat, 06/20/2015",
@@ -121,7 +139,7 @@
     {
       "title"    : "Save the Date - National Aerospace FDI Exposition",
       "url"     : "/events/save-date-national-aerospace-fdi-exposition.html",
-"rowdiv": "odd",     
+"rowdiv": "even",     
       "location" : "Los Angeles, CA",
       "startdate" : "Mon, 10/26/2015",
 "enddate" : " - Wed, 10/28/2015",
@@ -139,7 +157,7 @@
     {
       "title"    : "SelectUSA at POWER-GEN International",
       "url"     : "/events/selectusa-power-gen-international.html",
-"rowdiv": "even",     
+"rowdiv": "odd",     
       "location" : "Las Vegas, NV",
       "startdate" : "Tue, 12/08/2015",
 "enddate" : " - Thu, 12/10/2015",

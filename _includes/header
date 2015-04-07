@@ -37,7 +37,7 @@
 <div class="input-group form-group-sm">
                 <input type="text" class="form-control input-sm" name="srch-term" id="srch-term">
                 <div class="input-group-btn">
-                  <button class="btn btn-default btn-primary input-sm" type="submit" >SEARCH</button>
+                  <button class="btn btn-default btn-primary input-sm"  type="submit" ><i class="glyphicon glyphicon-search"></i></button>
                 </div>
               </div>
           </form>
