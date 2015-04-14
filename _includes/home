@@ -12,7 +12,7 @@
          </div>
    
         <div class="panel panel-default">
-          <div class="panel-heading"><a href="events.html" class="pull-right">View all</a> <h4>Upcoming Events</h4></div>
+          <div class="panel-heading"><a href="events.html" class="pull-right" id="all" >View all</a> <h4>Upcoming Events</h4></div>
    			<div class="panel-body">
               {% include eventbox.html %}
             </div>
