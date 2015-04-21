@@ -2,7 +2,7 @@
  	<div >
         <div class="navbar-header" style="height:80px;">
           
-          <a href="{{ site.baseurl }}{{ post.url }}/" class="navbar-brand"><img src="images/logo.png" ></a>
+          <a href="{{ site.baseurl }}{{ post.url }}/" class="navbar-brand"><img src="{{ site.baseurl }}/images/logo-light.png" ></a>
           
         </div>
         
