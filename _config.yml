@@ -1,6 +1,5 @@
 name: Website
 highlighter: pygments
-baseurl:
 exclude:
   - .bundle
   - .git
