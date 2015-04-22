@@ -11,7 +11,7 @@ published: true
 
 Régitex USA LLC, a Canadian-based manufacturer of made-to-order ring spun and open end yarns, announced in July a $1.5 million investment in the opening of a U.S. manufacturing plant in Mecklenburg County, Virginia.&nbsp; 
 
-> _**“We are pleased and excited to make Virginia our home base in the United States,” **_
+> _**“We are pleased and excited to make Virginia our home base in the United States,”**_
 >
 >_-Rick Martignetti, president of Régitex USA LLC._
 

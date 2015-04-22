@@ -37,9 +37,9 @@
 
 <p> In March 2012, Volkswagen Group America announced plans to invest another $40 million in Tennessee to build a new warehouse in Roane County. The warehouse will distribute domestic auto parts to the Passat factory located in Chattanooga. The facility, planned to be 400,000 square feet, will open by Spring 2013 and employ approximately 45 people by 2016. This new expansion continues to highlight Volkswagen’s commitment to investing in the U.S. market. </p>
 
-<p> <strong><em>“This new facility is exemplary of the commitment that Volkswagen Group of America has to meeting the needs of our dealers and our growing customer base,”</em></strong></p>
-
 <blockquote>
+  <p><strong><em>“This new facility is exemplary of the commitment that Volkswagen Group of America has to meeting the needs of our dealers and our growing customer base,”</em></strong></p>
+
   <p><strong><em> </em></strong><strong><em>“Our continued investment in the U.S. market affirms that Volkswagen is dedicated to the economic vitalization of the communities where we do business.”</em></strong></p>
 
   <p><em>-Rawdon Glover, Executive Vice President of Aftersales, Volkswagen Group of America</em></p>
@@ -105,9 +105,9 @@
 <p>TB Kawashima USA Inc., a leading producer of textiles used by the automotive industry and a division of Japan-based TB Kawashima Co., announced an expansion of its facility in Kershaw County, South Carolina, in August.  </p>
 
 <blockquote>
-  <p><em>**“We are pleased to move forward with our new expansion at our plant in Kershaw County. This represents the second expansion to this plant in the last couple of years.  Demand for our products has continued to grow, and Kershaw County has provided us with an excellent business environment in which to operate.”  **</em></p>
+  <p><em><strong>“We are pleased to move forward with our new expansion at our plant in Kershaw County. This represents the second expansion to this plant in the last couple of years.  Demand for our products has continued to grow, and Kershaw County has provided us with an excellent business environment in which to operate.”</strong></em></p>
 
-  <p><em>–Yuzo Mori, President of TB Kawashima USA</em></p>
+  <p><em>-Yuzo Mori, President of TB Kawashima USA</em></p>
 </blockquote>
 
 <p>The company’s $9 million investment in the United States is expected to generate 50 new U.S. jobs over the next five years. South Carolina officials planned to continue working with the company to provide support, including a personalized training program for new employees. </p>
@@ -124,16 +124,16 @@
     {
       "title"    : "Siemens",
       "href"     : "/testimonials/siemens.html",
-      "content": "<h2 id="siemens-invests-in-us-wind-power"><em>Siemens Invests in U.S. Wind Power</em></h2>
+      "content": "<h2 id="siemens-invests-in-us-wind-power">Siemens Invests in U.S. Wind Power</h2>
 
 <p>Siemens, the third largest wind manufacturer in the U.S. and a leader in off-shore wind turbine production, announced in August 2006 its purchase of a wind turbine blade manufacturing site in Fort Madison, Iowa - the company’s first wind turbine production facility in the United States. </p>
 
 <blockquote>
   <p><em><strong>“We have been investing and growing our business in America for over 100 years – investing $25 billion in the last 10 years alone.” </strong></em> </p>
 
-  <p><em>**“We think our Fort Madison plant is a fantastic example of how, with the right policy and market support, we are able to invest in and revitalize America’s manufacturing base.”  **</em></p>
+  <p><em><strong>“We think our Fort Madison plant is a fantastic example of how, with the right policy and market support, we are able to invest in and revitalize America’s manufacturing base.”</strong></em></p>
 
-  <p><em>–Peter Loescher, President and CIO, Siemens AG</em></p>
+  <p><em>-Peter Loescher, President and CIO, Siemens AG</em></p>
 </blockquote>
 
 <p>In addition to its investment in Fort Madison, Siemens started construction in the fall of 2009 on a new facility in Hutchinson, Kansas, with 400 jobs, and in March announced a new gas turbine manufacturing facility that will be built at its site in Charlotte, North Carolina, where another 825 new jobs will be created.</p>
@@ -163,7 +163,7 @@
 <p>Régitex USA LLC, a Canadian-based manufacturer of made-to-order ring spun and open end yarns, announced in July a $1.5 million investment in the opening of a U.S. manufacturing plant in Mecklenburg County, Virginia.  </p>
 
 <blockquote>
-  <p><em>**“We are pleased and excited to make Virginia our home base in the United States,” **</em></p>
+  <p><em><strong>“We are pleased and excited to make Virginia our home base in the United States,”</strong></em></p>
 
   <p><em>-Rick Martignetti, president of Régitex USA LLC.</em></p>
 </blockquote>
@@ -188,10 +188,13 @@
 
 <p>Rolls-Royce has begun manufacturing operations at Crosspointe - its largest site by area in North America – which opened in May 2011. Crosspointe, located in Prince George County, Virginia, is the first Rolls-Royce site built from the- ground-up in the United States. The new aerospace facility represents a total investment of approximately $500 million and expects to generate 600 new jobs by the time the facility is operational.</p>
 
-<p><strong><em>“We’re delighted to be bringing so many good, high-tech and advanced manufacturing jobs to the region and look forward to building on our presence in and partnership with Virginia.”</em></strong><strong><em> </em></strong></p>
+<blockquote>
+  <p><strong><em>“We’re delighted to be bringing so many good, high-tech and advanced manufacturing jobs to the region and look forward to building on our presence in and partnership with Virginia.”</em></strong></p>
 
-<p><em>*_“For us, Crosspointe is about growth – about positioning for the future. With this new _</em>***<em>campus in the U.S., we are spreading our capability around the world, getting closer to our customers, growing our presence in key markets and strengthening our ability to manage business continuity risk.”
-_**</em>–James M. Guyette, President &amp; CIO, Rolls-Royce North America_</p>
+  <p><strong><em>“For us, Crosspointe is about growth – about positioning for the future. With this new _****_campus in the U.S., we are spreading our capability around the world, getting closer to our customers, growing our presence in key markets and strengthening our ability to manage business continuity risk.”</em></strong></p>
+
+  <p><em>-James M. Guyette, President &amp; CIO, Rolls-Royce North America</em></p>
+</blockquote>
 
 <p>The facilities will manufacture, assemble and test a range of aerospace components and products, and will be the first to produce discs, considered one of the most critical components of the engine. Rolls-Royce has also invested in additional sites recently in the United States, including an On-Wing Care facility in Indiana and Marine Service Centers in Texas and Washington.</p>
 
@@ -219,11 +222,15 @@ _**</em>–James M. Guyette, President &amp; CIO, Rolls-Royce North America_</p>
       "href"     : "/testimonials/nestlé.html",
       "content": "<p>Nestlé Professional North America announced in April 2011 their plans for a multi-million dollar expansion of the L.J. Minor facility in Cleveland, OH. The official groundbreaking took place on August 18<sup>th</sup>, 2011. The new facility will cover 75,000 square feet and add new advanced technologies to the site. </p>
 
-<p>**<em>“The investment in our MINOR’S Cleveland manufacturing plant demonstrates Nestlé’s commitment to the City of Cleveland,”
-_**</em>-Perry Miele, Vice President &amp; General Manager for Nestlé Professional North America_</p>
+<blockquote>
+  <p><strong><em>“The investment in our MINOR’S Cleveland manufacturing plant demonstrates Nestlé’s commitment to the City of Cleveland,”</em></strong></p>
 
-<p><strong><em> </em></strong>**<em>“For more than six decades, MINOR’S has been a part of the Cleveland community and this investment signifies Nestlé’s growth and continued commitment to the City of Cleveland.”
-_**</em> -Neil Dorfman, Vice President Manufacturing and Technical Services, Nestlé Professional North America_</p>
+  <p><em>-Perry Miele, Vice President &amp; General Manager for Nestlé Professional North America</em></p>
+
+  <p><strong><em>“For more than six decades, MINOR’S has been a part of the Cleveland community and this investment signifies Nestlé’s growth and continued commitment to the City of Cleveland.”</em></strong></p>
+
+  <p><em>-Neil Dorfman, Vice President Manufacturing and Technical Services, Nestlé Professional North America</em></p>
+</blockquote>
 
 <p>The City of Cleveland provided a $250,000 economic development loan to cover the expansion of the current site. MINOR’S has been a presence in Cleveland since its beginning in 1951. </p>
 
@@ -236,9 +243,13 @@ _**</em> -Neil Dorfman, Vice President Manufacturing and Technical Services, Ne
 
 <p>Nestlé Professional North America broke ground on a new Culinary Innovation Center in Solon, Ohio, in late 2007. The facility covers 67,300 square feet and is designed to integrate four developmental processes, with separate areas for concept development, culinary kitchens, product development laboratories, and the development and testing of manufacturing models. The project was expected to create 70 new jobs. </p>
 
-<p><em><strong>“This groundbreaking signifies Nestlé’s growth and expansion in Solon as well as Nestlé’s commitment to culinary innovation in the foodservice industry… **__</strong>The realization of this new Center will provide a unique community for our Nestlé Professional Culinary team and a new opportunity for Nestlé to work with the local Solon community.” **</em></p>
+<blockquote>
+  <p><em><strong>“This groundbreaking signifies Nestlé’s growth and expansion in Solon as well as Nestlé’s commitment to culinary innovation in the foodservice industry…</strong></em></p>
 
-<p><em>- Tracy Thomas, Vice President and General Manager of Culinary at Nestlé Professional North America</em></p>
+  <p><em><strong>The realization of this new Center will provide a unique community for our Nestlé Professional Culinary team and a new opportunity for Nestlé to work with the local Solon community.”</strong></em></p>
+
+  <p><em>- Tracy Thomas, Vice President and General Manager of Culinary at Nestlé Professional North America</em></p>
+</blockquote>
 
 <p>State and local officials helped Solon meet Nestlé’s immediate and future business needs, and company leaders have praised their assistance and continued commitment to the area’s business development.  </p>
 
@@ -258,11 +269,13 @@ _**</em> -Neil Dorfman, Vice President Manufacturing and Technical Services, Ne
 
 <p><span class="imgright"><img src="/images/ncr-logo_pantone.jpg" alt="NCR Logo" /></span>In June 2009, American technology company NCR Corp. selected two locations in Georgia as sites for its worldwide headquarters and a new North American manufacturing plant. The moves were expected to create an estimated 1,250 jobs in Duluth, Georgia, and 870 jobs in Columbus, Georgia.</p>
 
-<p><em><strong>“Our decision to bring our North American ATM manufacturing in-house was driven by our belief that as self-service ATM technology becomes more innovative and strategic to financial institutions, the ability to control manufacturing in key markets becomes a core and competitive advantage to our growth strategy… “  </strong></em></p>
+<blockquote>
+  <p><em><strong>“Our decision to bring our North American ATM manufacturing in-house was driven by our belief that as self-service ATM technology becomes more innovative and strategic to financial institutions, the ability to control manufacturing in key markets becomes a core and competitive advantage to our growth strategy… “  </strong></em></p>
 
-<p><em><strong>“NCR recognized that by in-sourcing their production, they would be able to decrease time-to-market, improve their internal collaboration, and lower their operating costs.”</strong></em> </p>
+  <p><em><strong>“NCR recognized that by in-sourcing their production, they would be able to decrease time-to-market, improve their internal collaboration, and lower their operating costs.”</strong></em> </p>
 
-<p><em>-Peter Dorsman, NCR Senior Vice President of Global Operations</em></p>
+  <p><em>-Peter Dorsman, NCR Senior Vice President of Global Operations</em></p>
+</blockquote>
 
 <p>NCR chose to invest in the United States and Georgia because of its pro-business environment and outstanding education and workforce development initiatives. </p>
 ",
@@ -281,11 +294,13 @@ _**</em> -Neil Dorfman, Vice President Manufacturing and Technical Services, Ne
 
 <p>Life Technologies Corp., a global biotechnology company, announced plans in September 2010 to expand its facility and production in Frederick, Maryland. The development is expected to add 100 new jobs by the end of 2011 and follows a previous expansion of the Frederick site in 2009 that created 50 local jobs. </p>
 
-<p><em>**“We are thankful for the support the State of Maryland and Frederick County have provided us with to expand and grow our operations,” **</em></p>
+<blockquote>
+  <p><em><strong>“We are thankful for the support the State of Maryland and Frederick County have provided us with to expand and grow our operations,”</strong></em></p>
 
-<p><em><strong>“This expansion will improve our ability to help the life science community with leading edge instruments and reagents that can help advance personalized medicine, regenerative science, molecular diagnostics, agricultural and environmental research, and 21<sup>st</sup> century forensics.” </strong></em></p>
+  <p><em><strong>“This expansion will improve our ability to help the life science community with leading edge instruments and reagents that can help advance personalized medicine, regenerative science, molecular diagnostics, agricultural and environmental research, and 21<sup>st</sup> century forensics.”</strong></em></p>
 
-<p><em>-Uplaksh Kumar, Manufacturing and Site Leader of Life Technologies in Frederick</em></p>
+  <p><em>-Uplaksh Kumar, Manufacturing and Site Leader of Life Technologies in Frederick</em></p>
+</blockquote>
 
 <p>Life Technologies develops, manufactures and markets more than 50,000 products for customers involved in life science research and the commercial manufacture of genetically engineered products.</p>
 
@@ -305,10 +320,12 @@ _**</em> -Neil Dorfman, Vice President Manufacturing and Technical Services, Ne
 
 <p>Intel announced in October 2010 plans to invest between $6 billion and $8 billion on next-generation manufacturing technology in its U.S. facilities over the next several years. The investment includes the development of a new fabrication plant in Oregon and upgrades to four existing factories in Arizona and Oregon to produce chips with circuits 22 nanometers wide, smaller than their current generation of chips.</p>
 
-<p><strong><em>“Today’s announcement reflects the next tranche of the continued advancement of Moore’s Law and a further commitment to invest in the future of Intel and America,”</em></strong></p>
+<blockquote>
+  <p><strong><em>“Today’s announcement reflects the next tranche of the continued advancement of Moore’s Law and a further commitment to invest in the future of Intel and America,”</em></strong>
+<strong><em>“The most immediate impact of our multi-billion-dollar investment will be the thousands of jobs associated with building a new fab and upgrading four others, and the high-wage, high-tech manufacturing jobs that follow.”</em></strong></p>
 
-<p>**<em>“The most immediate impact of our multi-billion-dollar investment will be the thousands of jobs associated with building a new fab and upgrading four others, and the high-wage, high-tech manufacturing jobs that follow.”
-_**</em>–Paul Otellini, Intel President and CEO_</p>
+  <p><em>-Paul Otellini, Intel President and CEO</em></p>
+</blockquote>
 
 <p>The new plant and upgrades are expected to support 6,000 to 8,000 construction jobs and result in 800 to 1,000 new, permanent high-tech jobs, as well as help Intel maintain its current manufacturing base at these U.S. sites.</p>
 
@@ -336,21 +353,24 @@ _**</em>–Paul Otellini, Intel President and CEO_</p>
 <p>In December 2009, General Electric Co.’s Appliances &amp; Lighting division announced plans to increase production at its Louisville, Kentucky, location in Appliance Park over three years with three new energy efficient product lines.  The decision to house this new production in the United States and Louisville was expected to add 830 manufacturing and engineering jobs at the facility, which represents a $600 million GE investment. </p>
 
 <blockquote>
-  <p><em><strong>“We are making big investments in new products and in energy-efficient technologies that are creating American jobs.” </strong></em></p>
+  <p><em><strong>“We are making big investments in new products and in energy-efficient technologies that are creating American jobs.”</strong></em></p>
 
-  <p><em>**“We can’t make these products in the U.S. competitively without everyone coming to the table — unions, the Company, employees, local/state/federal officials.” **</em></p>
+  <p><em><strong>“We can’t make these products in the U.S. competitively without everyone coming to the table — unions, the Company, employees, local/state/federal officials.”</strong></em></p>
 
-  <p>_– Jim Campbell, President and CEO of General Electric Appliance &amp; Lighting _</p>
+  <p><em>- Jim Campbell, President and CEO of General Electric Appliance &amp; Lighting</em></p>
 </blockquote>
 
 <p>The GeoSpring Hybrid Water Heater was the first completely new product line to be made in the Louisville factory in over fifty years, and General Electric plans to continue its investment in the green technology sector in the United States.</p>
 
 <h3 id="update"><em>UPDATE:</em></h3>
 
-<p>In June 2012, <a href="http://www.businesswire.com/news/home/20120627005796/en/GE-Appliances-Plans-Shift-Increase-Production-Popular#.U35DvPldWVM">GE announced an expansion of production</a> that created an additional 380 jobs, bringing the total number of working production employees to 772 and increasing the investment to $800 million.
-&gt; <strong>“The growth of GE’s manufacturing operation at Appliance Park and the ripple effect on our community continues to validate the city and state governments’ decisions to encourage GE to choose Louisville when GE was deciding where to invest. We couldn’t be more thrilled with their progress.” </strong>
-&gt; 
-&gt; <em>–Metro Louisville Mayor Greg Fisher</em></p>
+<p>In June 2012, <a href="http://www.businesswire.com/news/home/20120627005796/en/GE-Appliances-Plans-Shift-Increase-Production-Popular#.U35DvPldWVM">GE announced an expansion of production</a> that created an additional 380 jobs, bringing the total number of working production employees to 772 and increasing the investment to $800 million.</p>
+
+<blockquote>
+  <p><em><strong>“The growth of GE’s manufacturing operation at Appliance Park and the ripple effect on our community continues to validate the city and state governments’ decisions to encourage GE to choose Louisville when GE was deciding where to invest. We couldn’t be more thrilled with their progress.”</strong></em></p>
+
+  <p><em>-Metro Louisville Mayor Greg Fisher</em></p>
+</blockquote>
 ",
       "date"     : {
          "day"   : "04",
@@ -372,7 +392,7 @@ _**</em>–Paul Otellini, Intel President and CEO_</p>
 <blockquote>
   <p><strong><em>“We’ll make more money this way because we’ll have better quality and better image.”</em></strong></p>
 
-  <p><em>**</em>-Farouk Shami, Owner Farouk Systems_</p>
+  <p><em>-Farouk Shami, Owner Farouk Systems</em></p>
 </blockquote>
 
 <h3 id="update"><em>UPDATE:</em></h3>
@@ -382,8 +402,7 @@ _**</em>–Paul Otellini, Intel President and CEO_</p>
 <blockquote>
   <p><strong><em>“We are celebrating our 25<sup>th</sup> anniversary, and our motto is ‘be safe, be beautiful and buy American.’ We need everybody to buy American – that’s what will stimulate the economy.”</em></strong></p>
 
-  <p>**_
-<em>**</em>-Farouk Shami, Founder of Farouk Systems Inc._</p>
+  <p><em>-Farouk Shami, Founder of Farouk Systems Inc.</em></p>
 </blockquote>
 
 <p>Farouk Systems in Houston currently employs around 2,000 employees and plans to hire at least 300 more within the next year.</p>
@@ -462,9 +481,9 @@ _**</em>–Paul Otellini, Intel President and CEO_</p>
 <p>In August 2012, Caterpillar <a href="http://www.areadevelopment.com/newsitems/8-24-2012/caterpillar-hydraulic-plant-victoria-texas-3455671.shtml">started operations</a> at its $200 million manufacturing plant in Victoria, Texas. The state-of-the-art facility will focus on the manufacture of hydraulic excavators and created 225 jobs. </p>
 
 <blockquote>
-  <p><em>**“Based on our comprehensive review of possible locations, Victoria’s proximity to our supply base, access to ports and other transportation, as well as the positive business climate in Texas made this the ideal site for this project”  **</em></p>
+  <p><em><strong>“Based on our comprehensive review of possible locations, Victoria’s proximity to our supply base, access to ports and other transportation, as well as the positive business climate in Texas made this the ideal site for this project”</strong></em></p>
 
-  <p><em>**“Caterpillar is committed to maintaining its global leadership position in the excavator industry, and this new facility in Texas will play an important role in our long-term plans to provide customers in every region of the world with the products and solutions they need to help them with their businesses.” **</em></p>
+  <p><em><strong>“Caterpillar is committed to maintaining its global leadership position in the excavator industry, and this new facility in Texas will play an important role in our long-term plans to provide customers in every region of the world with the products and solutions they need to help them with their businesses.”</strong></em></p>
 
   <p><em>-Gary Stampanato, Caterpillar Vice President responsible for excavators</em></p>
 </blockquote>
@@ -492,8 +511,9 @@ _**</em>–Paul Otellini, Intel President and CEO_</p>
 <p>Canon USA, Inc. constructed a new Americas Headquarters in Melville, Long Island, NY. Canon <a href="http://www.usa.canon.com/cusa/about_canon/newsroom/press_releases?pageKeyCode=pressreldetail&amp;docId=0901e0248015d53d">broke ground on the new location</a> in March 2010 and <a href="http://www.usa.canon.com/cusa/about_canon/standard_display/newamericashq">opened its doors</a> in February 2013. The new facility serves as Canon’s third worldwide headquarters location, along with headquarters in Tokyo and London. Aiming to be “<span>a model for environmental stewardship and innovation,” the Melville headquarters is</span> <span>the largest commercial property on Long Island to achieve LEED Gold Certification Standards.</span></p>
 
 <blockquote>
-  <p>**<em> “Over the past 40 years, Canon U.S.A. has developed strong roots in the Long Island community…Canon is very grateful for the support we have received from every level of government and the local community to bring this new, state-of-the-art facility from concept to reality. We are committed to continuing our role as an active member of the Long Island business and local community and will look forward to moving into our new home in Melville.”
-_**</em>-Joe Adachi, President &amp; CEO, Canon U.S.A._</p>
+  <p><strong><em> “Over the past 40 years, Canon U.S.A. has developed strong roots in the Long Island community…Canon is very grateful for the support we have received from every level of government and the local community to bring this new, state-of-the-art facility from concept to reality. We are committed to continuing our role as an active member of the Long Island business and local community and will look forward to moving into our new home in Melville.”</em></strong></p>
+
+  <p><em>-Joe Adachi, President &amp; CEO, Canon U.S.A.</em></p>
 </blockquote>
 
 <p>The headquarters created over 2,000 immediate and future job opportunities. </p>
@@ -545,9 +565,9 @@ _**</em>-Joe Adachi, President &amp; CEO, Canon U.S.A._</p>
 <p>In April 2010, Astrum Solar – an installer of residential and small commercial solar panels headquartered in Annapolis Junction, Maryland – announced the opening of <span class="imgright"><img src="/images/as_logo-rgb-250px-176x192.jpg" alt="Astrum Solar Logo" /></span>a new office outside of Philadelphia, Pennsylvania. The new office was opened in response to growing demand for sustainable and cost-effective energy solutions and to service the region’s growing customer base.  </p>
 
 <blockquote>
-  <p><em>**“The expansion in Pennsylvania is just one part of Astrum Solar’s aggressive growth strategy to serve new geographic markets up and down the East Coast” **</em></p>
+  <p><em><strong>“The expansion in Pennsylvania is just one part of Astrum Solar’s aggressive growth strategy to serve new geographic markets up and down the East Coast”</strong></em></p>
 
-  <p> <em>-Vadim Polikov, Astrum Solar President </em></p>
+  <p>-Vadim Polikov, Astrum Solar President</p>
 </blockquote>
 
 <p>The Pennsylvania office employs 25 people in the fields of engineering, sales, installation, and project management and is expected to continue to grow with consumer demand. In addition to serving customers in eastern Pennsylvania, the new office is also expected to provide installations for residents in south New Jersey. </p>

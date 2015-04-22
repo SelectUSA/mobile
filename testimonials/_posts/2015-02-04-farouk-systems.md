@@ -14,7 +14,7 @@ Owner Farouk Shami said the decision was clear.&nbsp; Outsourcing led to a loss 
 
 > **_“We’ll make more money this way because we’ll have better quality and better image.”_**
 > 
-> _**_-Farouk Shami, Owner Farouk Systems_
+> _-Farouk Shami, Owner Farouk Systems_
 
 ### _UPDATE:_
 
@@ -22,7 +22,6 @@ Farouk Systems, a $1 billion manufacturer of professional hair care and spa prod
 
 > **_“We are celebrating our 25<sup>th</sup> anniversary, and our motto is ‘be safe, be beautiful and buy American.’ We need everybody to buy American – that’s what will stimulate the economy.”_**
 > 
-> **_
-> _**_-Farouk Shami, Founder of Farouk Systems Inc._
+> _-Farouk Shami, Founder of Farouk Systems Inc._
 
 Farouk Systems in Houston currently employs around 2,000 employees and plans to hire at least 300 more within the next year.

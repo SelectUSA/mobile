@@ -12,8 +12,8 @@ tags: [Automotive]
 
 &nbsp;In March 2012, Volkswagen Group America announced plans to invest another $40 million in Tennessee to build a new warehouse in Roane County. The warehouse will distribute domestic auto parts to the Passat factory located in Chattanooga. The facility, planned to be 400,000 square feet, will open by Spring 2013 and employ approximately 45 people by 2016. This new expansion continues to highlight Volkswagen’s commitment to investing in the U.S. market. 
 
-&nbsp;**_“This new facility is exemplary of the commitment that Volkswagen Group of America has to meeting the needs of our dealers and our growing customer base,”_**
-
+>**_“This new facility is exemplary of the commitment that Volkswagen Group of America has to meeting the needs of our dealers and our growing customer base,”_**
+>
 >**_&nbsp;_****_“Our continued investment in the U.S. market affirms that Volkswagen is dedicated to the economic vitalization of the communities where we do business.”_**
 >
 >_-Rawdon Glover, Executive Vice President of Aftersales, Volkswagen Group of America_

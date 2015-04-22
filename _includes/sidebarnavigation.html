@@ -1,7 +1,7 @@
 
 {% if page.title == "Testimonials" or page.section == "testimonials" %}
 <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
-  <h4>They Chose USA</h4>
+  <h3>They Chose USA</h3>
 
   <div class="content">
     <ul class="menu">
@@ -16,7 +16,7 @@
 
 {% if page.title == "Industry Snapshots" or page.section == "industry-snapshots" %}
 <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
-  <h4>Industries</h4>
+  <h3>Industries</h3>
 
   <div class="content">
     <ul class="menu">
@@ -43,7 +43,7 @@
 
 
 {% if eventheading %} 
-  <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h4>Upcoming Events</h4> 
+  <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h3>Upcoming Events</h3> 
 
 <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
 {% for post in site.categories.events reversed%}
@@ -52,8 +52,8 @@
 {% if posttime > nowunix %}
     {% capture currentdate %}{{post.date | date: " %B, %Y"}}{% endcapture %}
     {% if currentdate != thedate %}
-    <h3><span class="date-display-single">  {{ currentdate }}
-    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h3>
+    <h4><span class="date-display-single">  {{ currentdate }}
+    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h4>
     {% endif %}
      {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
@@ -91,7 +91,7 @@
 {% endfor %}
   </div>  </div>
 {% else %}
-<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h2>Past Events</h2>  
+<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h3>Past Events</h3>  
 <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
 {% for post in site.categories.events %}
 {% capture nowunix %}{{site.time  | date: '%s'}}{% endcapture %}
@@ -99,8 +99,8 @@
 {% if posttime < nowunix %}
     {% capture currentdate %}{{post.date | date: " %B, %Y"}}{% endcapture %}
     {% if currentdate != thedate %}
-    <h3><span class="date-display-single">  {{ currentdate }}
-    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h3>
+    <h4><span class="date-display-single">  {{ currentdate }}
+    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h4>
     {% endif %}
      {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
