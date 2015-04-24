@@ -93,6 +93,47 @@ margin-left:70px;
 /* End newspaper style functionality to images */
 
 /* Styles from old site */
+.view-upcoming-events .views-row {
+    margin-bottom:1em;
+    line-height:normal
+}
+
+.view-upcoming-events .views-field-field-location-value {
+    font-size:0.9em;
+    margin-left:1em;
+}
+
+.view-upcoming-events .views-field-field-date-1-value {
+    font-size:0.9em;
+    margin-left:1em;
+    margin-bottom: 0.5em;
+}
+
+.view-upcoming-events .views-field-title {
+    margin-bottom:.5em
+}
+
+
+.views-row-odd {
+    background:#EFEFEF;
+    padding:.5em 0
+}
+
+.views-row-even {
+    padding:.5em 0
+}
+
+.views-field-teaser {
+    padding:0 .5em
+}
+
+.views-field-title {
+    padding:0 .5em
+}
+
+.views-field-title {
+    padding:0 .5em
+}
 
 .view-upcoming-events h4 {
     background-color:#E1E1E1;
