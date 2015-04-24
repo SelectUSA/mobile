@@ -280,7 +280,8 @@ width:100%;
 color: #fff;
 }
 
-.navbar-brand{
+.navbar-brand img{
+margin-top:20px;
 }
 
 .navbar-custom {
@@ -292,14 +293,14 @@ background-color:#ce362c;
 .well,.panel {  background: #FFF;border: none;}
 
 .panel .panel-heading {
- background-color:#ce362c;
- color:#fff;
+ color:#ce362c;
+ background-color:#fff;
  border-width:0px;
  border-radius:0;
 }
 
 .panel .panel-heading h4 {
-font-size:20px;
+font-size:28px;
 text-align:center;
 margin-top:0px;
 margin-bottom:0px;
@@ -307,7 +308,7 @@ margin-bottom:0px;
 }
 
 .panel .panel-heading h3{
-font-size:18px;
+font-size:28px;
 text-align:center;
 margin-top:0px;
 margin-bottom:0px;
