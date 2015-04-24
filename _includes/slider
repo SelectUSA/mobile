@@ -5,7 +5,7 @@
 
         <div class="carousel-inner">
             <div class="item active" >
-                <img src="images/nYc.jpg"  />
+                <img src="{{ site.baseurl }}/images/nyc.jpg" alt="New York City" />
                  <div class="carousel-caption">
             <h3>Why Select the USA?</h3>
             <p>Learn why the U.S. is the world’s top location for business and investment.</p>
@@ -13,7 +13,7 @@
           </div>
             </div>
            <div class="item">
-             <img src="images/bridge.jpg" alt="Featured Clouds"   />
+             <img src="{{ site.baseurl }}/images/bridge.jpg" alt="Golden Gate Bridge"   />
              <div class="carousel-caption">
             <h3>Federal Programs and Incentives for Business</h3>
             <p>Programs and incentives to help your business succeed.</p>
@@ -21,7 +21,7 @@
           </div>
             </div>
            <div class="item">
-             <img src="images/dc.jpg" alt="Featured City"  />
+             <img src="{{ site.baseurl }}/images/dc.jpg" alt="Washington DC"  />
              <div class="carousel-caption">
             <h3>They Chose the USA</h3>
             <p>Learn why business is choosing America to expand and invest</p>
