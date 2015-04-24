@@ -1233,19 +1233,19 @@ h4 small,.h4 small,h5 small,.h5 small,h6 small,.h6 small,h4 .small,.h4 .small,h5
 }
 
 h1,.h1 {
-    font-size:25px
+    font-size:36px
 }
 
 h2,.h2 {
-    font-size:23px
+    font-size:30px
 }
 
 h3,.h3 {
-    font-size:20px
+    font-size:26px
 }
 
 h4,.h4 {
-    font-size:16px
+    font-size:20px
 }
 
 h5,.h5 {
@@ -5503,6 +5503,22 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:hover,a.list-gro
 
 .panel-body {
     padding:15px
+}
+
+.panel-body h1 {
+    font-size:25px
+}
+
+.panel-body h2 {
+    font-size:23px
+}
+
+.panel-body h3 {
+    font-size:20px
+}
+
+.panel-body h4 {
+    font-size:16px
 }
 
 .panel-heading {
