@@ -305,12 +305,25 @@ margin-left:30px;
     padding: 2px;
 }
  
-@media (max-width: 768px) {
+@media (max-width: 1200px)  {
  #subnav {
   padding-top: 6px;
  }
+ 
+ .navbar-form {
+ margin-top:20px;
+ }
   #map {
 display:none;
+}
+#partner {
+display:none;
+}
+#banner {
+display:none;
+}
+.navbar-custom {
+background-color:#036;
 }
 
 }
@@ -339,13 +352,14 @@ color: #fff;
 
 .navbar-brand img{
 margin-top:20px;
+
 }
 
 .navbar-custom {
-background-color:#ce362c;
+background-color:#036;
 }
 
-.btn-primary,.label-primary,.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {background-color:#ce362c;}
+.btn-primary,.label-primary,.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {background-color:#036;}
 
 .well,.panel {  background: #FFF;border: none;}
 
@@ -379,5 +393,19 @@ color#fff;
  #map {
 display:none;
 }
+#partner {
+display:none;
+}
+#banner {
+display:none;
+}
+
+}
+
+@media
+  (max-device-width: 42mm)
+  and (min-device-width: 38mm) { 
+  
+  
 
 }
