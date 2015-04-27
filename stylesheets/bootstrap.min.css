@@ -4222,8 +4222,7 @@ margin-top:0px;
     margin-bottom:8px;
     background-color:transparent;
     background-image:none;
-    border:1px solid transparent;
-    border-radius:4px
+
 }
 
 .navbar-toggle:focus {
@@ -4476,10 +4475,10 @@ padding:10px 15px;
   	color:#eeeeee;
 }
 .navbar-custom .navbar-toggle {
-  	background-color:#fff;
+  	background:none;
 }
 .navbar-custom .icon-bar {
-  	background-color:#ce362c;
+  	background-color:#fff;
 }
 
 
