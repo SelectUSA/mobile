@@ -91,13 +91,13 @@
     <h4><span class="date-display-single">  {{ currentdate }}
     {% capture thedate %}{{currentdate}}{% endcapture %} </span></h4>
     {% endif %}
-     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
-          <div class="views-row-2 views-row-even views-row-last">
+         {% if forloop.last %}<div class="views-row-even-last">{% else %}<div class="views-row-even">{% endif %} 
         {% else %}
-          <div class="views-row-1 views-row-odd views-row-first views-row-first">
+        {% if forloop.last %}<div class="views-row-odd-last">{% else %}<div class="views-row-odd">{% endif %}  
         {% endif %}
- 
+        
       <div class="views-field-title">
           <span class="field-content">
               <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -138,13 +138,13 @@
     <h4><span class="date-display-single">  {{ currentdate }}
     {% capture thedate %}{{currentdate}}{% endcapture %} </span></h4>
     {% endif %}
-     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
-          <div class="views-row-2 views-row-even views-row-last">
+         {% if forloop.last %}<div class="views-row-even-last">{% else %}<div class="views-row-even">{% endif %} 
         {% else %}
-          <div class="views-row-1 views-row-odd views-row-first views-row-first">
+        {% if forloop.last %}<div class="views-row-odd-last">{% else %}<div class="views-row-odd">{% endif %}  
         {% endif %}
- 
+        
       <div class="views-field-title">
           <span class="field-content">
               <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

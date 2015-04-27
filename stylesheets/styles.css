@@ -123,13 +123,24 @@ li.leaf-sub {
 
 
 .views-row-odd {
-    background:#EFEFEF;
+    
+    border-bottom:1px solid #e8e8e8;
     padding:.5em 0
 }
 
 .views-row-even {
+   border-bottom:1px solid #e8e8e8;
     padding:.5em 0
 }
+
+.views-row-odd-last {
+    padding:.5em 0
+}
+
+.views-row-even-last {
+    padding:.5em 0
+}
+
 
 .views-field-teaser {
     padding:0 .5em
