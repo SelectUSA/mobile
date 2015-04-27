@@ -2,7 +2,7 @@
 permalink: "event-calendar.html"
 layout: default
 title: Event Calendar
-published: true
+published: true 
 ---
 
 <html>
@@ -11,8 +11,8 @@ published: true
 
 <link rel="stylesheet" href="{{ site.baseurl }}/fullcalendar/jquery-ui.min.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/fullcalendar/fullcalendar.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/fullcalendar/bootstrap.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/fullcalendar/bootstrap-theme.css">
+<!-- link rel="stylesheet" href="{{ site.baseurl }}/fullcalendar/bootstrap.css" -->
+<!-- link rel="stylesheet" href="{{ site.baseurl }}/fullcalendar/bootstrap-theme.css" -->
 <script src="{{ site.baseurl }}/fullcalendar/moment.js"></script>
 <style type="text/css"></style>
 <script src="{{ site.baseurl }}/fullcalendar/jquery.min.js"></script>
@@ -23,7 +23,7 @@ published: true
 <script>
 
 
-	$(document).ready(function () {
+    $(document).ready(function () {
     $('#cal').fullCalendar({
         events: [{% assign sorted_pages = (site.categories.events) %}{% for post in sorted_pages %}
     {
@@ -41,13 +41,7 @@ published: true
             center: 'prev title next',
             right: ''
         },
-        eventClick: function (event, jsEvent, view) {
-            $('#modalTitle').html(event.title);
-            $('#modalBody').html(event.description);
-            $('#eventUrl').attr('href', event.url);
-            $('#fullCalModal').modal();
-            return false;
-        }
+     
     });
 });
 
