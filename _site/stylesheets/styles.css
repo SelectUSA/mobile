@@ -309,6 +309,9 @@ margin-left:30px;
  #subnav {
   padding-top: 6px;
  }
+ .dropdown-menu>li>a { 
+color: #fff;
+}
  
  .navbar-form {
  margin-top:20px;
@@ -331,6 +334,8 @@ background-color:#036;
 
 body {
   background: #FFF;
+  font-size:16px;
+  line-height: 1.75em;
 }
 
  #foot {
@@ -399,13 +404,5 @@ display:none;
 #banner {
 display:none;
 }
-
-}
-
-@media
-  (max-device-width: 42mm)
-  and (min-device-width: 38mm) { 
-  
-  
 
 }
