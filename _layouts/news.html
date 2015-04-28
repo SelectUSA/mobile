@@ -1,22 +1,32 @@
----
-permalink: "news.html"
-layout: default
-title: News
-published: true
----
-
-<div style="float:left;
-width:50%;
-overflow:hidden;">
-<a href="https://twitter.com/selectusa">SelectUSA on Twitter</a>
+<!DOCTYPE html>
+<html>
+		{% include head.html %}
+<body>
+	    <div class="container" id="main">
+		{% include header %}
+		{% include topnav %}
+		</br>
+		<div class="row" >
+   <div class="col-md-6 col-sm-6">
+   
+   <div class="panel panel-default">
+           <div class="panel-heading"><h3>{{page.title}}</h3></div>
+   			<div class="panel-body">
+              <a href="https://twitter.com/selectusa">SelectUSA on Twitter</a>
  <a class="twitter-timeline" width="450" href="https://twitter.com/SelectUSA" data-widget-id="560467615035187200">Tweets by @SelectUSA</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
-
-<div style="float:left;
-width:50%;
-overflow:hidden;">
-<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu" ><h2>Blog</h2> 
+              <div class="clearfix"></div>
+            </div>
+         </div>
+	
+  	<div class="col-md-6 col-sm-6">
+      	 
+          
+      	 <div class="panel panel-default">
+   			<div class="panel-body">
+              
+				<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu" ><h2>Blog</h2> 
 
 <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
 {% for post in site.categories.blog  %}
@@ -49,20 +59,42 @@ overflow:hidden;">
   </div>
 {% endfor %}
   </div>  </div>
-</div>
-<br>
-#See all blog posts
+  
+<h2>See all blog posts</h2>
 
-* [Tradeology - International Trade Administration Blog](http://blog.trade.gov/category/selectusa/)
-* [SelectUSA - Department of Commerce Blog](http://www.commerce.gov/tags/selectusa)
-* [Foreign Direct Investment - Department of Commerce Blog](http://www.commerce.gov/tags/foreign-direct-investment)
-<p><br><br><br><br><br><br></p>
+<a href="http://blog.trade.gov/category/selectusa/">Tradeology - International Trade Administration Blog</a>
+<a href="http://www.commerce.gov/tags/selectusa">SelectUSA - Department of Commerce Blog</a>
+<a href="http://www.commerce.gov/tags/foreign-direct-investment">Foreign Direct Investment - Department of Commerce Blog</a>
+</div>   
 
-#[Latest Newsletters](selectusa-newsletters.html)
+<div class="clearfix"></div>
+            </div>
+            
 
-*   [February 6, 2015: ](http://tinyurl.com/le9ugj9)&quot;New State Incentives Database &amp; other essential tools&quot;
-*   [February 3, 2015: ](http://tinyurl.com/kazwlwh)&quot;SelectUSA is heading to Hannover Messe&quot;
-*   [January 29, 2015: ](http://tinyurl.com/oc4go8e)&quot;SelectUSA Summit Agenda now posted!&quot;
+         </div>
+        
+        <div class="col-md-12 col-sm-6">
+   
+      	 
+          
+      	 <div class="panel panel-default">
+   			<div class="panel-body">
+              
+              <div class="clearfix"></div>
+              
+				{{ content }}     
+            </div>
+            
 
-[see all newsletters](selectusa-newsletters.html)
-
+         </div>
+        
+        
+  	</div>
+   
+       
+  	
+   {% include footer %}
+   		</div>
+		{% include js.html %}
+</body>
+</html>
