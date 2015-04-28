@@ -26,7 +26,7 @@ function myFunction(arr) {
     var out = "";
     var i;
     for(i = 0; i < 3; i++) {
-        out += '<div class="views-row-1 views-row-' + arr[i].rowdiv +  ' views-row-first"> <div class="views-field-title"><span class="field-content"><a href="' + arr[i].url + '">' + 
+        out += '<div class="views-row-1 views-row-' + arr[i].rowdiv +  ' views-row-first"> <div class="views-field-title"><span class="field-content"><a href="{{ site.baseurl }}{{ post.url }}' + arr[i].url + '">' + 
         arr[i].title + '</a></span></div><div class="views-field-field-date-1-value"><span class="date-display-start">' + arr[i].startdate + '</span><span class="date-display-end">' + arr[i].enddate + '</span></div><div class="views-field-field-location-value"><span class="field-content">' + arr[i].location + '</span></div></div></div></a></div>';
     }
     document.getElementById("id01").innerHTML = out;
