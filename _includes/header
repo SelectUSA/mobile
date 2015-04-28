@@ -10,20 +10,20 @@
         <div class="collapse navbar-collapse" id="navbar-collapse1" style="background:transparent;padding:0;margin-bottom:-45px;">
         <!-- Extra small button group -->
 <div class="btn-group pull-right" style="margin-top:5px;">
-  <button class="btn btn-default btn-xs dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">
+  <button class="btn btn-default btn-xs dropdown-toggle trn" type="button" data-toggle="dropdown" aria-expanded="false">
     language <span class="caret"></span>
   </button>
   <ul class="dropdown-menu" role="menu">
-    <li><a href="{{ site.baseurl }}{{ post.url }}/" >English</a></li>
-<li><a href="#" class="lang_selector" data-value="arabic">Arabic</a></li>
-<li><a href="#" class="lang_selector" data-value="chinesesimplified">Chinese (Simplified)</a></li>
-<li><a href="#" class="lang_selector" data-value="chinesetradtional">Chinese (Traditional)</a></li>
-<li><a href="#" class="lang_selector" data-value="french">French</a></li>
-<li><a href="#" class="lang_selector" data-value="german">German</a></li>
-<li><a href="#" class="lang_selector" data-value="japanese">Japanese</a></li>
-<li><a href="#" class="lang_selector" data-value="korean">Korean</a></li>
-<li><a href="#" class="lang_selector" data-value="portuguese">Portuguese</a></li>
-<li><a href="#" class="lang_selector" data-value="spanish">Spanish</a></li>
+    <li><a href="#" class="lang_selector" data-value="en">English</a></li>
+<li><a href="#" class="lang_selector trn" data-value="arabic">Arabic</a></li>
+<li><a href="#" class="lang_selector trn" data-value="chinesesimplified">Chinese (Simplified)</a></li>
+<li><a href="#" class="lang_selector trn" data-value="chinesetradtional">Chinese (Traditional)</a></li>
+<li><a href="#" class="lang_selector trn" data-value="french">French</a></li>
+<li><a href="#" class="lang_selector trn" data-value="german">German</a></li>
+<li><a href="#" class="lang_selector trn" data-value="japanese">Japanese</a></li>
+<li><a href="#" class="lang_selector trn" data-value="korean">Korean</a></li>
+<li><a href="#" class="lang_selector trn" data-value="portuguese">Portuguese</a></li>
+<li><a href="#" class="lang_selector trn" data-value="spanish">Spanish</a></li>
   </ul>
 </div>
           <ul class="nav navbar-nav navbar-right">
