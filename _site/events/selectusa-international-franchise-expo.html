@@ -566,32 +566,69 @@
 
 
 
+		<script>
 	
-	<script>
+var state_urls = {
+'AL' : 'http://www.madeinalabama.com/',
+'AK' : 'http://www.alaska.gov',
+'AZ' : 'http://www.azcommerce.com',
+'AR' : 'http://www.arkansasedc.com',
+'CA' : 'http://www.business.ca.gov/',
+'CO' : 'http://www.advancecolorado.com',
+'CT' : 'http://www.ct.gov/ecd/',
+'DE' : 'http://global.delaware.gov',
+'DC' : 'http://dcbiz.dc.gov',
+'FL' : 'http://www.enterpriseflorida.com',
+'GA' : 'http://www.georgia.org',
+'HI' : 'http://invest.hawaii.gov',
+'ID' : 'http://commerce.idaho.gov/',
+'IL' : 'http://www.illinoisbiz.biz',
+'IN' : 'http://www.iedc.in.gov',
+'IA' : 'http://www.iowaeconomicdevelopment.com/',
+'KS' : 'http://www.kansascommerce.com',
+'KY' : 'http://www.thinkkentucky.com',
+'LA' : 'http://www.opportunitylouisiana.com/',
+'ME' : 'http://www.mitc.com',
+'MD' : 'http://www.business.maryland.gov',
+'MA' : 'http://www.mass.gov/moiti/',
+'MI' : 'http://www.michiganbusiness.org/',
+'MN' : 'http://mn.gov/deed/invest',
+'MS' : 'http://www.mississippi.org',
+'MO' : 'http://www.missouripartnership.com',
+'MT' : 'http://commerce.mt.gov',
+'NE' : 'http://www.neded.org',
+'NV' : 'http://www.diversifynevada.com/',
+'NH' : 'http://www.nheconomy.com',
+'NJ' : 'http://www.nj.gov/state/bac/',
+'NM' : 'http://www.tradenm.com',
+'NY' : 'http://www.esd.ny.gov',
+'NC' : 'http://www.thrivenc.com/',
+'ND' : 'http://www.business.nd.gov/',
+'OH' : 'http://jobs-ohio.com/',
+'OK' : 'http://www.okcommerce.gov',
+'OR' : 'http://www.oregon4biz.com',
+'PA' : 'http://www.newpa.com',
+'RI' : 'http://www.commerceri.com ',
+'SC' : 'http://sccommerce.com/',
+'SD' : 'http://www.sdreadytowork.com',
+'TN' : 'http://www.tn.gov/ecd/',
+'TX' : 'http://www.texaswideopenforbusiness.com',
+'UT' : 'http://www.business.utah.gov',
+'VT' : 'http://www.thinkvermont.com',
+'VA' : 'http://www.yesvirginia.org',
+'WA' : 'http://www.choosewashington.com/',
+'WV' : 'http://www.wvcommerce.org/',
+'WI' : 'http://wedc.org',
+'WY' : 'http://wyomingbusiness.org/Relocation',
+'AS' : 'http://www.americansamoa.gov',
+'GU' : 'http://www.investguam.com',
+'MP' : 'http://www.commerce.gov.mp',
+'PR' : 'http://ddec.pr.gov/en/',
+'VI' : 'http://www.usvieda.org',
+};
+
 	$(document).ready(function() {
-	  $('#map2').usmap({
-	    'stateSpecificStyles': {
-	      'AK' : {fill: '#f00'}
-	    },
-	    'stateSpecificHoverStyles': {
-	      'HI' : {fill: '#ff0'}
-	    },
-	    
-	    'mouseoverState': {
-	      'HI' : function(event, data) {
-	        //return false;
-	      }
-	    },
-	    
-	    
-	    'click' : function(event, data) {
-	      $('#alert')
-	        .text('Click '+data.name+' on map 1')
-	        .stop()
-	        .css('backgroundColor', '#ff0')
-	        .animate({backgroundColor: '#ddd'}, 1000);
-	    }
-	  });
+
 	  
 	  $('#map').usmap({
 	    'stateStyles': {
@@ -603,25 +640,15 @@
 	      fill: 'teal'
 	    },
 	    
-	    'click' : function(event, data) {
-	      $('#alert')
-	        .text('You clicked: '+data.name)
-	        .stop()
-	        .css('backgroundColor', '#af0')
-	        .animate({backgroundColor: '#ddd'}, 1000);
-	    }
+'click' : function(event, data) {
+var urls = state_urls[data.name];
+window.open(urls);
+}
 	  });
 	  
-	  $('#over-md').click(function(event){
-	    $('#map').usmap('trigger', 'MD', 'mouseover', event);
-	  });
-	  
-	  $('#out-md').click(function(event){
-	    $('#map').usmap('trigger', 'MD', 'mouseout', event);
-	  });
+
 	});
 	</script>
-
 
 
   
