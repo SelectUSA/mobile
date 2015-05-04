@@ -11,7 +11,7 @@
         <!-- Extra small button group -->
 <div class="btn-group pull-right" style="margin-top:5px;">
   <button class="btn btn-default btn-xs dropdown-toggle trn" type="button" data-toggle="dropdown" aria-expanded="false">
-    language <span class="caret"></span>
+    Select Language <span class="caret"></span>
   </button>
   <ul class="dropdown-menu" role="menu">
     <li><a href="#" class="lang_selector" data-value="en">English</a></li>
