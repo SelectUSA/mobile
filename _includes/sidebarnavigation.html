@@ -1,5 +1,4 @@
 
-
 {% if page.title == "Reading Room" or page.section == "reading-room" %}
 <div id="block-menu-menu-2015-summit" class="block block-menu">
   <h2>SelectUSA Reading Room</h2><br>
@@ -16,7 +15,8 @@
 
 {% if page.title == "2015 Summit" or page.section == "2015-summit" %}
 <div id="block-menu-menu-2015-summit" class="block block-menu">
-  <h2>2015 SelectUSA Investment Summit</h2><br>
+  <img src="http://www.selectusasummit.com/templates/susa_2015_v1/images/logo-52776599.png" width=260><br><br>
+  <h3>2015 SelectUSA Investment Summit:</h3>
   <div class="content">
     <ul class="menu">
  {% assign sorted_pages = (site.categories.2015-summit | sort: title) %}
@@ -28,8 +28,10 @@
   {% endif %}
    {% endfor %}
 <li class="leaf"><a href="https://www.whitehouse.gov/the-press-office/2015/03/23/fact-sheet-president-obama-announce-new-steps-attract-foreign-investors-">White House Fact Sheet on SelectUSA</a></li>
-</ul>  
-<br><i>The Summit event website can be found at <a href=http://www.selectusasummit.com/>www.selectusasummit.com</a></i>
+</ul> 
+<center>
+<br><i>The Summit event website can be found at</i> <B><a href=http://www.selectusasummit.com/>www.selectusasummit.com</a></b>
+</center>
 </div>
 </div>
 {% else %}
