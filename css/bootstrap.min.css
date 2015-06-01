@@ -3854,8 +3854,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 .nav>li>a {
     position:relative;
     display:block;
-    padding:10px 17px;
-    margin:0px 3px;
+    padding:10px 20px;
 }
 
 #navbar-collapse1 .nav{

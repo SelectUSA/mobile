@@ -16,6 +16,10 @@ font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#4A4A4A;
   background: #F1F1F1;
 }
+
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) { @media { body{font:13px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; }
+}}
+
 .navbar-default {background-color:#f4f4f4;margin-top:50px;border-width:0;z-index:5;}
 .navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > li:hover > a {border:0 solid #4285f4;border-bottom-width:2px;font-weight:500;background-color:transparent;}
 .navbar-default .dropdown-menu {background-color:#ffffff;}
