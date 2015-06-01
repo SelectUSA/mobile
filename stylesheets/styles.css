@@ -323,12 +323,13 @@ display:none;
 #banner {
 display:none;
 }
+/* Resolve conflicts w/ mobile site nav color. 
 .navbar-custom {
 background-color:#036;
 }
 
 }
-
+*/
 @media (max-width: 768px) {
  .dropdown-menu>li>a { 
 color: #fff;
