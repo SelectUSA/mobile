@@ -1,47 +1,35 @@
 ---
 permalink: "events/selectusa-hannover-messe.html"
 layout: sidebar
-title: SelectUSA at Hannover Messe
-date-display-start: Mon, 04/13/2015
-date-display-end: Fri, 04/17/2015
+title: SelectUSA at Hannover Messe 2015
+date-display-start: April 13
+date-display-end: 17, 2015
 calendar-start: 2015-04-13
 calendar-end: 2015-04-17
 location-value:  Hannover, Germany
 section: events
 published: true
 ---
-Hannover, Germany
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
-Mon, 04/13/2015 - Fri, 04/17/2015
+![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 ## GERMANY: Hannover Messe
 
 ### April 13 - 17, 2015
 
-The **[U.S. Commercial Service Germany](http://export.gov/germany/)**&nbsp;and SelectUSA will organize and host the fifth annual **USA Investment Center** at the world’s largest industrial
-technology show, the **[Hannover Messe Trade Fair](http://www.hannovermesse.de/home)**. The USA Investment Center is a joint pavilion of
-SelectUSA and participating economic development organizations (EDOs) from U.S.
-states, cities and regions. We invite you to
-join us!
+The **[U.S. Commercial Service Germany](http://export.gov/germany/)**&nbsp;and SelectUSA are hosting the fifth annual **USA Investment Center** at the world’s largest industrial technology show, the **[Hannover Messe Trade Fair](http://www.hannovermesse.de/home)**. The USA Investment Center is a joint pavilion of SelectUSA and participating economic development organizations (EDOs) from U.S. states, cities and regions. Come talk with us about the opportunities and advantages available in the United States!
 
-The USA
-Investment Center promotes the United States as the premier global business
-location to over **6,500 industry exhibitors and 210,000 trade visitors**.
-It offers EDOs a cost-effective turnkey package of meeting space, joint
-marketing and promotion, as well as individualized support to maximize business
-development and recruitment efforts. &nbsp;
+The USA Investment Center promotes the United States as the premier global business location to over **6,500 industry exhibitors and 210,000 trade visitors**. It partners with EDOs to offer meeting space, joint marketing, and promotion, as well as individualized support to maximize business development and recruitment efforts. &nbsp;
 
-**NEW!:** to provide the most effective exposure for investment
-promotion, the USA Investment Center will be located within the **<span style="text-decoration: underline;">Global
-Business and Markets</span>** of **<span style="text-decoration: underline;">Industrial Supply Hall 4</span>** of the
-fairgrounds. The price for the basic package of meeting space and services is $5,250, holding costs to the 2014 level.&nbsp; Additional
-options are available for EDOs with their own exhibition at the Hannover Fair.
+**If you are attending Hannover Messe 2015 and would like to meet with us, please visit:**
 
-**For
-more detailed information and to sign up, please contact:**
+[http://selectusa.tema.de/](http://selectusa.tema.de/)
 
-Ed
-Fantasia, SelectUSA Representative, U.S. Commercial Service
-- Munich [Ed.Fantasia@trade.gov](mailto:Ed.Fantasia@trade.gov)
+**For more detailed information, please contact:**
 
-Steve Miller, SelectUSA – Washington, DC [Steve.Miller@trade.gov](mailto:Steve.Miller@trade.gov)
+Ed Fantasia, SelectUSA Representative, U.S. Commercial Service – Munich ([Ed.Fantasia@trade.gov](mailto:Ed.Fantasia@trade.gov))
+
+David Campbell, Investment Specialist, SelectUSA – Washington, DC ([David.Campbell@trade.gov](mailto:David.Campbell@trade.gov))
+
+![alt text](https://pbs.twimg.com/media/CCLt72qVIAAPw3Q.png:large "SelectUSA Investment Center at Hannover Messe 2015")
