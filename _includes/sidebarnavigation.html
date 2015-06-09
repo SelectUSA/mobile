@@ -56,16 +56,25 @@
 <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
   <h3>Industries</h3>
 
-  <div class="content">
-    <ul class="menu">
+    <div class="content">
+    <div class="custom-collapse">
+  <button class="collapse-toggle visible-xs " type="button" data-toggle="collapse" data-parent="custom-collapse" data-target="#side-menu-collapse">
+      <span class="">Complete List</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+  </button>
+    <div class="list-group collapse" id="side-menu-collapse">
  {% assign sorted_pages = (site.categories.industry-snapshots | sort: industry) %}
   {% for post in sorted_pages %}
-  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.industry}}</a></li>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item dropdown-toggle">{{ post.industry}}</a>
    {% endfor %}
-</ul>  </div>
+</div>  </div></div>
 </div>
+
 {% else %}
 {% endif %}
+
  
 
 

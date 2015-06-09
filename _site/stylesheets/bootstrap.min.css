@@ -3858,8 +3858,8 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 }
 
 #navbar-collapse1 .nav{
-margin-top:0px;
-	margin-right:10px;
+margin-top:1px;
+margin-right:0px;
 }
 
 #navbar-collapse1 .nav>li>a {
@@ -5316,9 +5316,9 @@ to {
 .list-group-item {
     position:relative;
     display:block;
-    padding:10px 15px;
+    padding:8px 15px;
     margin-bottom:-1px;
-    background-color:#fff;
+    background-color:#FDFDFD;
     border:1px solid #ddd
 }
 
@@ -5499,7 +5499,8 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:hover,a.list-gro
 }
 
 .panel-body {
-    padding:15px
+    padding:15px;
+    padding-top:0px;
 }
 
 .panel-body h1 {

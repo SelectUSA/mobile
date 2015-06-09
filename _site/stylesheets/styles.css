@@ -198,6 +198,7 @@ textarea {
  font-size:16px;
  color:#036;
  border-color:#ffffff;
+ padding-bottom:0px;
 }
 .panel .panel-heading a {
  font-weight:400;
@@ -309,6 +310,18 @@ margin-left:30px;
     padding: 2px;
 }
  
+ 
+#intro {
+font-size:16px;
+}
+
+@media screen and (min-width: 768px) {
+ 
+.custom-collapse .collapse{
+  			display:block;
+      }  
+}
+
 @media (max-width: 1200px)  {
  #subnav {
   padding-top: 6px;
@@ -423,6 +436,12 @@ display:none;
  margin-left:0;  
  display: inline-block;
  text-align: none;
+}
+
+img {
+
+max-width: 300px;
+
 }
 
 }
