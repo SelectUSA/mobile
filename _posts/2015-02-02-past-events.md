@@ -7,14 +7,14 @@ published: true
 
 ## Past Events: Catching Up with SelectUSA
 
-The past year has been a busy one for SelectUSA. We've convened major policy conferences like the [2015 Investment Summit]({{base.url}}/2015-summit.html) and the [Summer Forum]({{base.url}}/events/selectusa-summer-forum.html), taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
+The past year has been a busy one for SelectUSA. We've convened major policy conferences like the [2015 Investment Summit]({{ site.baseurl }}{{post.url}}/2015-summit.html) and the [Summer Forum]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html), taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
 
 * * *
 
 ## 2015 SelectUSA Investment Summit 
 
 <span class="imgright">
-<a href="{{base.url}}/2015-summit.html">
+<a href="{{ site.baseurl }}{{post.url}}/2015-summit.html">
 <img src="http://www.commerce.gov/sites/commerce.gov/files/styles/scale_700w/public/16722605079_45ed7eff3f_o.jpg?itok=hY2r4t4y" alt="President Obama Addresses the 2015 SelectUSA Summit" width=300>
 </a>
 </span>
@@ -23,37 +23,37 @@ The past year has been a busy one for SelectUSA. We've convened major policy con
 
 <span>The second&nbsp;</span>**SelectUSA Investment Summit**<span>&nbsp;on March 23-24, 2015&nbsp;was a tremendous success. We brought together&nbsp;</span>**investors**<span>&nbsp;from more than 70 international markets as well as&nbsp;</span>**economic development organizations&nbsp;**<span>from all 50 states, high-level government officials, and others working to facilitate investment in the United States. Our 2,600+ participants had access to&nbsp;</span>**unique networking opportunities**<span>, online matchmaking, insights from&nbsp;</span>**global CEOs and senior U.S. leaders**<span>, and discussions on the latest issues affecting investments.</span>
 
-Please visit our **[2015 Summit page]({{base.url}}/2015-summit.html)** to learn more about the event's outcomes, view our photos, watch recorded plenary sessions, and more.
+Please visit our [2015 Summit page]({{ site.baseurl }}{{post.url}}/2015-summit.html) to learn more about the event's outcomes, view our photos, watch recorded plenary sessions, and more.
 
 * * *
 
 ## Infrastructure 101 Webinar Series
 
-<span class="imgright">[![Infrastructure 101 Webinar](images/selectusa_infrastructure_101_webinar_2014-11-24_page_01_0-300x225.jpg "Infrastructure 101 Webinar")](/infrastructure-101-webinar-series)</span>
+<span class="imgright">[![Infrastructure 101 Webinar](images/selectusa_infrastructure_101_webinar_2014-11-24_page_01_0-300x225.jpg "Infrastructure 101 Webinar")]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series)</span>
 
-This three-part webinar series was designed to equip U.S. economic development organizations (EDOs) with the practical knowledge they needed prior to the&nbsp;**[SelectUSA Investment Summit](http://www.selectusasummit.com/)**&nbsp;on March 23-24, 2015, where infrastructure investment was one of the highlighted topics.
+This three-part webinar series was designed to equip U.S. economic development organizations (EDOs) with the practical knowledge they needed prior to the&nbsp;[SelectUSA Investment Summit](http://www.selectusasummit.com/)&nbsp;on March 23-24, 2015, where infrastructure investment was one of the highlighted topics.
 
-*   [Infrastructure 101 Webinar with the Department of Treasury](/infrastructure-101-webinar-series#Inf101)&nbsp;(November 24, 2014)
-*   [Infrastructure 102 Webinar with the Department of Transportation](/infrastructure-101-webinar-series#Inf102)&nbsp;(December 15, 2014)
-*   [Infrastructure 103 Webinar with the Department of Agriculture](/infrastructure-101-webinar-series#Inf103)&nbsp;(January 28, 2015)
+*   [Infrastructure 101 Webinar with the Department of Treasury]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series#Inf101)&nbsp;(November 24, 2014)
+*   [Infrastructure 102 Webinar with the Department of Transportation]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series#Inf102)&nbsp;(December 15, 2014)
+*   [Infrastructure 103 Webinar with the Department of Agriculture]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series#Inf103)&nbsp;(January 28, 2015)
 
-You can access presentations and resources from these webinars on our **[Infrastructure 101 Webinar Series](/infrastructure-101-webinar-series)** page.
+You can access presentations and resources from these webinars on our [Infrastructure 101 Webinar Series]({{ site.baseurl }}{{post.url}}/infrastructure-101-webinar-series) page.
 
 ***
 
 # 2014 SelectUSA Summer Forum
 
-<span class="imgright">[![SelectUSA Summer Forum Logo](images/summer_forum_logo-422x155.png "SelectUSA Summer Forum Logo")]({{base.url}}/events/selectusa-summer-forum.html)</span>
+<span class="imgright">[![SelectUSA Summer Forum Logo](images/summer_forum_logo-422x155.png "SelectUSA Summer Forum Logo")]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html)</span>
 
 ## Reinvesting in America, Creating Jobs at Home
 
 **June 17, 2014**
 
-Co-hosted by** Congressman Frank Wolf**, the [SelectUSA Summer Forum]({{base.url}}/events/selectusa-summer-forum.html) covered a wide range of perspectives on what's driving reshoring, the challenges that lie ahead, and best practices. Like foreign direct investment, when U.S. companies recognize the value in expanding or repatriating their U.S. operations, local communities benefit and the economy grows stronger.
+Co-hosted by** Congressman Frank Wolf**, the [SelectUSA Summer Forum]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html) covered a wide range of perspectives on what's driving reshoring, the challenges that lie ahead, and best practices. Like foreign direct investment, when U.S. companies recognize the value in expanding or repatriating their U.S. operations, local communities benefit and the economy grows stronger.
 
 Keynote speakers included **U.S.&nbsp;Secretary of Commerce Penny Pritzker** and **Whirlpool CEO Jeff Fettig. **We also heard from leading economists, Walmart, economic development organizations, and companies that shared their experience in making the move back to the United States.
 
-If you missed it, you can still check out the presentations,&nbsp;[available online]({{base.url}}/events/selectusa-summer-forum.html).
+If you missed it, you can still check out the presentations,&nbsp;[available online]({{ site.baseurl }}{{post.url}}/events/selectusa-summer-forum.html).
 
 * * *
 
@@ -75,7 +75,7 @@ If you missed it, you can still check out the presentations,&nbsp;[available onl
 
 ## Road Shows
 
-<span class="imgright">[![Ambassador Kennedy Speaking in Japan at SelectUSA event](images/amb_cbk_gives_remarks_at_the_su_japan_launch_and_showcase-300x200.jpg "Ambassador Kennedy Speaking In Japan at SelectUSA event")</span>
+<span class="imgright">[![Ambassador Kennedy Speaking in Japan at SelectUSA event](images/amb_cbk_gives_remarks_at_the_su_japan_launch_and_showcase-300x200.jpg "Ambassador Kennedy Speaking in Japan at SelectUSA event")</span>
 
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
 
@@ -94,10 +94,10 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
-*   [**Offshore Technology Conference**]({{base-url}}/events/selectusa-offshore-technology-conference-otc.html) - May 4-7, 2015 in Houston, TX
-*   [**Hannover Messe**]({{base-url}}/events/selectusa-hannover-messe.html) - April 13-17, 2015 in Hannover, Germany
-*   [**Canadian International Auto Show (CIAS)**]({{base-url}}/events/selectusa-investment-center-canadian-international-auto-show-cias.html) - February 12, 2015 in Toronto, Canada
-*   [**CAR-Symposium**]({{base-url}}/events/selectusa-car-symposium.html) - Febraury 4, 2015 in Bochum, Germany
+*   [**Offshore Technology Conference**]({{ site.baseurl }}{{post.url}}/events/selectusa-offshore-technology-conference-otc.html) - May 4-7, 2015 in Houston, TX
+*   [**Hannover Messe**]({{ site.baseurl }}{{post.url}}/events/selectusa-hannover-messe.html) - April 13-17, 2015 in Hannover, Germany
+*   [**Canadian International Auto Show (CIAS)**]({{ site.baseurl }}{{post.url}}/events/selectusa-investment-center-canadian-international-auto-show-cias.html) - February 12, 2015 in Toronto, Canada
+*   [**CAR-Symposium**]({{ site.baseurl }}{{post.url}}/events/selectusa-car-symposium.html) - Febraury 4, 2015 in Bochum, Germany
 *   **BIO International Convention** - June 25, 2014 in San Diego, CA
 *   **International Franchise Expo** - June 19-21, 2014 in New York, NY
 *   **POWERGEN Europe** - June 3-5, 2014 in Cologne, Germany
