@@ -26,7 +26,7 @@
           </div>
             </div>
            <div class="item">
-             <img src="{{ site.baseurl }}/images/dc.jpg" alt="Washington DC"  />
+             <img src="{{ site.baseurl }}/images/traingrain.jpg" alt="Grain silo and train"  />
              <div class="carousel-caption">
             <h3 class="trn">They Chose the USA</h3>
             <p class="trn">Learn why business is choosing America to expand and invest</p>
