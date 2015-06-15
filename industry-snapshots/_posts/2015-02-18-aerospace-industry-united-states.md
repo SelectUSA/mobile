@@ -36,7 +36,7 @@ the annual increase in the number of large commercial airplanes during the next
 20 years will be 3.5 percent per year for a total of 34,000 valued at $4.5
 trillion (list prices). &nbsp;</span>
 
-## **Industry Subsectors**
+## Industry Subsectors
 
 **<span>Large Civil Aircraft
 (LCA) – </span>**<span>The United
@@ -109,7 +109,7 @@ composites, metal-working, avionics, testing equipment, and coatings.&nbsp;
 U.S.-based suppliers are highly sought after partners for aerospace
 manufacturing programs at home and abroad.</span>
 
-## **Federal Programs and Recent or Pending Legislation **
+## Federal Programs and Recent or Pending Legislation
 
 **<span>The National Space
 Policy:</span>**<span> President
