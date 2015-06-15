@@ -15,10 +15,10 @@ published: true
 
 ## Online Tools 
 
-*   **[Assess Costs Everywhere (ACE) Tool](http://acetool.commerce.gov/)&nbsp;-&nbsp;**<span>This product of the Department of Commerce's&nbsp;</span>[Economics and Statistics Administration](http://www.esa.doc.gov/)<span>&nbsp;provides manufacturers with the top reasons for investing and sourcing in the United States.&nbsp; With its analytic framework, links to public and private resources, and case studies, ACE is now available to help businesses assess total costs more accurately and enable informed decision-making.</span>
-*   <span>**[Cluster Mapping Tool ](http://www.clustermapping.us/)**-&nbsp;<span>This project, made possible in part by a grant from the&nbsp;Department of Commerce's&nbsp;[Economic Development Administration](http://www.eda.gov/),&nbsp;aims to provide policymakers and development practitioners across America with the data and tools for assessing regional cluster strengths, business environment characteristics, and innovation assets; with case studies on and toolkits for formulating development strategies; and with a directory profiling active cluster initiatives throughout the country.</span></span>
-*   <span><span>**[State Business Incentives Database](http://selectusa.stateincentives.org/?referrer=selectusa)** - This&nbsp;national database was created by the [Council for Community and Economic Research](http://www.c2er.org/) (C2ER). With almost 2,000 programs from all 50 states, as well as 5 territories and the District of Columbia, the Database is a one-stop resource&nbsp;for investors and economic developers to search and compare state incentive programs.</span></span>
-*   **[Other tools](/tools.html)**
+*   [Assess Costs Everywhere (ACE) Tool](http://acetool.commerce.gov/)&nbsp;-&nbsp;<span>This product of the Department of Commerce's&nbsp;</span>[Economics and Statistics Administration](http://www.esa.doc.gov/)<span>&nbsp;provides manufacturers with the top reasons for investing and sourcing in the United States.&nbsp; With its analytic framework, links to public and private resources, and case studies, ACE is now available to help businesses assess total costs more accurately and enable informed decision-making.</span>
+*   <span>[Cluster Mapping Tool](http://www.clustermapping.us/)<span>This project, made possible in part by a grant from the&nbsp;Department of Commerce's&nbsp;[Economic Development Administration](http://www.eda.gov/),&nbsp;aims to provide policymakers and development practitioners across America with the data and tools for assessing regional cluster strengths, business environment characteristics, and innovation assets; with case studies on and toolkits for formulating development strategies; and with a directory profiling active cluster initiatives throughout the country.</span></span>
+*   <span><span>[State Business Incentives Database](http://selectusa.stateincentives.org/?referrer=selectusa) - This&nbsp;national database was created by the [Council for Community and Economic Research](http://www.c2er.org/) (C2ER). With almost 2,000 programs from all 50 states, as well as 5 territories and the District of Columbia, the Database is a one-stop resource&nbsp;for investors and economic developers to search and compare state incentive programs.</span></span>
+*   [Other tools]({{ site.baseurl }}{{post.url}}/tools.html)
 
 ## Doing Business in the U.S.
 
@@ -28,7 +28,7 @@ published: true
 *   [Federal Laws and Regulations](http://www.usa.gov/Topics/Reference-Shelf/Laws.shtml) - Links and guides to help business owners understand their federal regulatory requirements.
 *   <span>[LocationUSA](http://www.areadevelopment.com/LocationUSA/)<span>&nbsp;is a guide for international companies looking to invest or establish operations within the United States. Location USA provides practical advice and guidance about facilities deployment, labor force skills, taxes and incentives, and more.</span></span>
 *   [State and Local Regulations](http://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-register-your-busi) - Step-by-step instructions for complying with state and local regulations when starting or running a business.
-*   [Business Investment Reports](/business-investment-reports.html) - from SelectUSA and other sources.
+*   [Business Investment Reports]({{ site.baseurl }}{{post.url}}/business-investment-reports.html) - from SelectUSA and other sources.
 
 ## Private Sector Business Guides
 
