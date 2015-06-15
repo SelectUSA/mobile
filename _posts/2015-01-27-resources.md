@@ -43,7 +43,7 @@ published: true
 
 ## International Trade and Investment<a name="internationaltrade"></a>
 
-*   <div class="defaultparagraph">[BuyUSA.GOV](http://www.buyusa.gov/import/index.asp) is the U.S. Government's Commercial Service portal for companies wishing to locate U.S. Suppliers.&nbsp; The site leads to separate areas for each listed country.&nbsp; Each country page provides information on potential U.S. suppliers, suitable U.S. trade shows to visit, special programs, and local contacts.</div>
+*   [BuyUSA.GOV](http://www.buyusa.gov/import/index.asp) is the U.S. Government's Commercial Service portal for companies wishing to locate U.S. Suppliers.&nbsp; The site leads to separate areas for each listed country.&nbsp; Each country page provides information on potential U.S. suppliers, suitable U.S. trade shows to visit, special programs, and local contacts.
 *   [www.Export.gov](http://www.export.gov/) – The U.S. Government’s Official Export Assistance Portal. Find free export counseling, market research, trade leads, solve trade problems, and trade finance assistance.
 *   [Webinars on the Basics of Exporting](http://export.gov/articles/eg_main_022213.asp)
 *   [Import Assistance and Information ](http://www.cbp.gov/trade/basic-import-export)– The U.S. Customs and Border Protection within the U.S. Department of Homeland Security is the lead agency in enforcing regulations regarding the importation of your potential shipment and charging the appropriate duties and taxes.&nbsp; U.S. Customs handles all importing related questions and issues associated with bringing products into the United States.
