@@ -1,6 +1,6 @@
 ---
 
-permalink: "fact-sheets.html"
+permalink: "white-house-fact-sheets.html"
 
 layout: sidebar
 
