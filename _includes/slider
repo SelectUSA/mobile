@@ -29,7 +29,7 @@
              <img src="{{ site.baseurl }}/images/traingrain.jpg" alt="Grain silo and train"  />
              <div class="carousel-caption">
             <h3 class="trn">They Chose the USA</h3>
-            <p class="trn">Learn why business is choosing America to expand and invest</p>
+            <p class="trn">Learn why business is choosing America to expand and invest.</p>
             <p><a href="{{ site.baseurl }}{{ post.url }}/they-chose-usa.html" class="btn btn-default btn-sm" style="background:none;border-style: solid;border-color: #fff;"><span class="trn" style="color:#fff;">CHOOSE USA</span></a></p>
           </div>
           
