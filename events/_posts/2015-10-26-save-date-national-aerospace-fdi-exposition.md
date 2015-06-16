@@ -25,6 +25,8 @@ The **Aerospace States Association** is collaborating with the **U.S. Department
 
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Please contact [Lynn Bjostad](mailto:lynn@meetingsbypremier.com) for more information on this event
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/4MCX7AVI3vd4hZ" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+## Event Flyer
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/4MCX7AVI3vd4hZ" width="476" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
   
  
