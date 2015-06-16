@@ -1,10 +1,10 @@
 ---
 
-permalink: "emails.html"
+permalink: "email-updates.html"
 
 layout: sidebar
 
-title: SelectUSA Email Updates
+title: Email Updates
 
 section: reading-room
 
