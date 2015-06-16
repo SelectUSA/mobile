@@ -12,8 +12,6 @@ published: true
 
 ---
 
-## REcent SelectUSA Blog Posts
-
 <a class="embedly-card" href="http://blog.trade.gov/2015/06/04/selectusa-greater-china-roadshow-connects-u-s-economic-development-officials-with-hundreds-of-potential-investors/">SelectUSA Greater China Roadshow Connects U.S. Economic Development Officials With Hundreds of Potential Investors</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
