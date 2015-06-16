@@ -1,7 +1,7 @@
 ---
 permalink: "events/save-date-national-aerospace-fdi-exposition.html"
 layout: sidebar
-title: Save the Date - National Aerospace FDI Exposition
+title: National Aerospace FDI Exposition
 date-display-start: October 26
 date-display-end: 28, 2015
 calendar-start: 2015-10-26
