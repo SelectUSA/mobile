@@ -18,16 +18,13 @@ published: true
 ## National Aerospace Foreign Direct Investment Exposition
 
 #### Co-hosted by the&nbsp;[Aerospace States Association](http://aerostates.org/)&nbsp;(ASA) and the U.S. Department of Commerce 
-&nbsp;
 
-**October 26-28, 2015**
-
-**Los Angeles, CA**
-
-The **Aerospace States Association** is collaborating with the **U.S. Department of Commerce** to stage an aerospace FDI Exposition on October 27-28, 2015 in Los Angeles, California. This business event will bring foreign investors together with U.S. companies, economic development organizations, state officials, and service providers for networking, one-on-one meetings, and educational panels focused on economic dynamics and regulations geared specifically to aerospace manufacturing in the United States.
+The **Aerospace States Association** is collaborating with the **U.S. Department of Commerce** to stage an aerospace FDI Exposition on October 26-28, 2015 in Los Angeles, California. This business event will bring foreign investors together with U.S. companies, economic development organizations, state officials, and service providers for networking, one-on-one meetings, and educational panels focused on economic dynamics and regulations geared specifically to aerospace manufacturing in the United States.
 
 ![Website](https://google.github.io/material-design-icons/action/svg/design/ic_exit_to_app_24px.svg "Website") Event details can be found on the [National Aerospace FDI Exposition homepage](http://www.aeroinvestmentexpo.com/)
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Please contact Bob Mansfield at [MANSFIR1@erau.edu](mailto:MANSFIR1@erau.edu) for more information on this event
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Please contact [Lynn Bjostad](mailto:lynn@meetingsbypremier.com) for more information on this event
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/4MCX7AVI3vd4hZ" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
   
  
