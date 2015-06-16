@@ -4,7 +4,7 @@ permalink: "blog-posts.html"
 
 layout: sidebar
 
-title: SelectUSA Blog Posts
+title: Blog Posts
 
 section: reading-room
 
