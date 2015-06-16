@@ -56,8 +56,8 @@
   var defaults = {
     // The styles for the state
     'stateStyles': {
-      fill: "#333",
-      stroke: "#666",
+      fill: "#025",
+      stroke: "#036",
       "stroke-width": 1,
       "stroke-linejoin": "round",
       scale: [1, 1]
@@ -65,8 +65,8 @@
     
     // The styles for the hover
     'stateHoverStyles': {
-      fill: "#33c",
-      stroke: "#000",
+      fill: "#6498EB",
+      stroke: "#fff",
       scale: [1.1, 1.1]
     },
     
