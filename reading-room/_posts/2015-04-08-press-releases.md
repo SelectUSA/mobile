@@ -12,8 +12,6 @@ published: true
 
 ---
 
-## Recent Press Releases and Speeches
-
 <blockquote class="embedly-card"><h4><a href="http://www.commerce.gov/news/secretary-speeches/2015/06/us-commerce-secretary-penny-pritzker-highlights-importance-workforce">U.S. Commerce Secretary Penny Pritzker Highlights Importance of Workforce Development and Skills Training at Historic Signing Ceremony Between U.S. and Germany</a></h4><p>(June 5, 2015) Today, U.S. Secretary of Commerce Penny Pritzker delivered keynote remarks at the German Marshall Fund of the United States and witnessed the signing of a joint declaration of intent with Germany to promote cooperation in career and technical education and training. The agreement is between the U.S. Departments of Commerce, Labor, and Education and their three German counterparts.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
