@@ -150,13 +150,14 @@ li.leaf-sub {
     padding:0 .5em
 }
 
+/* old Drupal style - removed for Events menu
 .views-field-title {
     padding:0 .5em
 }
 
 .views-field-title {
     padding:0 .5em
-}
+} */
 
 .view-upcoming-events h4 {
     background-color:#E1E1E1;
