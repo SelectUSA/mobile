@@ -76,11 +76,8 @@ function initSliders(){
     }
   });
 
-  $('#genre_criteria :checkbox').prop('checked', true);
+  $('#genre_criteria :checkbox').prop('checked', false);
   $('#all_genre').on('click', function(){
     $('#genre_criteria :checkbox').prop('checked', $(this).is(':checked'));
-  });
-    $('#no_genre').on('click', function(){
-    $('#genre_criteria :checkbox').prop('checked', false);
   });
 }
