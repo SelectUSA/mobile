@@ -80,4 +80,7 @@ function initSliders(){
   $('#all_genre').on('click', function(){
     $('#genre_criteria :checkbox').prop('checked', $(this).is(':checked'));
   });
+    $('#no_genre').on('click', function(){
+    $('#genre_criteria :checkbox').prop('checked', false);
+  });
 }
