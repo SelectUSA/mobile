@@ -34,9 +34,7 @@
 
 	</div>
   	<div id="banner" class="col-md-8 col-sm-6" >
-      	 <div class="panel panel-default" >
-            {% include home-banner.html %}
-         </div>        
+            {% include home-banner.html %}    
   	</div>
   	
   	<div class="col-md-8 col-sm-6">
