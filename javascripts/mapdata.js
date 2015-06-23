@@ -36,7 +36,7 @@ var simplemaps_usmap_mapdata = {
 		label_color: '#d5ddec',	
 		label_hover_color: '#d5ddec',		
 		label_size: 22,
-		label_font: 'Arial',
+		label_font: 'Open Sans',
 		hide_labels: 'no',
 		hide_eastern_labels: 'no',
 		
