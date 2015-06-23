@@ -13,19 +13,3 @@ exclude:
 markdown: kramdown
 collections:
 - events
-
-mobile_nav:
-- text: Guidance
-  url: guidance.html
-- text: Contact
-  url: contact.html
-- text: App Gallery
-  url: app-gallery.html
-- text: Documentation Endpoints
-  url: documentation-endpoints.html
-- text: API FAQs
-  url: api-faqs.html
-- text: Change Log
-  url: change-log.html
-- text: Terms of Service
-  url: tos.html

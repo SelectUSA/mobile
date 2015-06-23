@@ -321,6 +321,8 @@ font-size:16px;
 .custom-collapse .collapse{
   			display:block;
       }  
+      
+      
 }
 
 @media (max-width: 1200px)  {
@@ -351,6 +353,10 @@ background-color:#036;
 @media (max-width: 768px) {
  .dropdown-menu>li>a { 
 color: #fff;
+}
+
+#mob {
+display:none;
 }
 }
 
@@ -385,6 +391,7 @@ color: #fff;
 
 .navbar-brand img{
 margin-top:20px;
+max-width:100%;
 
 }
 
@@ -443,6 +450,10 @@ img {
 
 max-width: 300px;
 
+}
+
+#mob {
+display:none;
 }
 
 }
