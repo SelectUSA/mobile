@@ -65,7 +65,7 @@ var simplemaps_usmap_mapdata = {
 		//Advanced settings
 		div: 'map',
 		auto_load: 'yes',		
-		url_new_tab: 'no', 
+		url_new_tab: 'yes', 
 		images_directory: 'default', //e.g. 'map_images/'
 		fade_time:  .1, //time to fade out		
 		link_text: '(Link)'  //Text mobile browsers will see for links	
@@ -625,7 +625,7 @@ var simplemaps_usmap_mapdata = {
 	},
 		"AS": {
 			name: 'American Samoa',
-			description: 'Department of Commerce',
+			description: 'Department of Commerce<br><u>doc.as.gov</u>',
 			color: '#D12229',
 			hover_color: '#FC6B72',
 			url: 'http://americansamoa.gov/',
