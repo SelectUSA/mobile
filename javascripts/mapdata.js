@@ -59,7 +59,7 @@ var simplemaps_usmap_mapdata = {
 		popup_opacity: .9,
 		popup_shadow: 1,
 		popup_corners: 5,
-		popup_font: '12px/1.5 Verdana, Arial, Helvetica, sans-serif',
+		popup_font: '12px/1.5 Open Sans, Verdana, Arial, Helvetica, sans-serif',
 		popup_nocss: 'no', //use your own css	
 		
 		//Advanced settings
