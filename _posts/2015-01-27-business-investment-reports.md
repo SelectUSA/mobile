@@ -17,7 +17,7 @@ A new report from the Department of Commerce and
 the Executive Office of the President on business investment in the United
 States and the expansion of the SelectUSA program.
 
-### [Read the report](http://www.whitehouse.gov/sites/default/files/docs/winning_business_investment_in_the_united_states.pdf)
+![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](http://www.whitehouse.gov/sites/default/files/docs/winning_business_investment_in_the_united_states.pdf)
 
 <span class="imgleft">![FDI Report Cover](images/cover_fdi_report_2013dec31.jpg)</span>
 
@@ -29,9 +29,9 @@ This paper studies the impact of FDI on the U.S. economy, the strengths and attr
 
 FDI is a key source of capital, job creation, innovation, and cross-border trade. In the United States, FDI has continued to flourish because firms worldwide recognize the United States as an innovative and stable market and the world’s largest economy. Moreover, the United States upholds its longstanding open investment policy, recognizing that the free movement of capital across borders is at the heart of today’s global economy.
 
-### [Read the report](documents/full_report_-_fdi_in_the_united_states.pdf)
+![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](documents/full_report_-_fdi_in_the_united_states.pdf)
 
-### [Download the infographics from the report](documents/2013-12-31_figures_-_selectusa_report_-_fdi_in_the_united_states.pdf)
+![Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the infographics from the report](documents/2013-12-31_figures_-_selectusa_report_-_fdi_in_the_united_states.pdf)
 
 &nbsp;
 
