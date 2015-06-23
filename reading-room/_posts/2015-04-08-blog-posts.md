@@ -1,6 +1,6 @@
 ---
 
-permalink: "blog-posts.html"
+permalink: "reading-room.html"
 
 layout: sidebar
 
