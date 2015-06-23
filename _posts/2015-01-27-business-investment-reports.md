@@ -19,6 +19,8 @@ States and the expansion of the SelectUSA program.
 
 ![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](http://www.whitehouse.gov/sites/default/files/docs/winning_business_investment_in_the_united_states.pdf)
 
+<br/><br/>
+
 <span class="imgleft">![FDI Report Cover](images/cover_fdi_report_2013dec31.jpg)</span>
 
 ## _Foreign Direct Investment (FDI) in the United States: Drivers of U.S. Economic Competitiveness_
