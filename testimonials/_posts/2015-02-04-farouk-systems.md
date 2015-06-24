@@ -12,7 +12,7 @@ Farouk Systems, a $1 billion manufacturer of professional hair care and spa prod
 
 Owner Farouk Shami said the decision was clear.&nbsp; Outsourcing led to a loss of control over manufacturing and distribution, and although raw materials and labor costs in the U.S. are higher than in Asia, there he was forced to spend about $500,000 a month to fight counterfeiting. 
 
-> **_“We’ll make more money this way because we’ll have better quality and better image.”_**
+> **“We’ll make more money this way because we’ll have better quality and better image.”**
 > 
 > _-Farouk Shami, Owner Farouk Systems_
 
@@ -20,7 +20,7 @@ Owner Farouk Shami said the decision was clear.&nbsp; Outsourcing led to a loss 
 
 Farouk Systems, a $1 billion manufacturer of professional hair care and spa products, is continuing to expand its Houston, TX facilities. In September 2011, Farouk Systems purchased 15 acres of land next to its existing facility in order to eventually increase its warehousing space to 1 million square feet. Farouk Systems is expanding its warehouses in order to better prepare for increased exports to Europe and South America. 
 
-> **_“We are celebrating our 25<sup>th</sup> anniversary, and our motto is ‘be safe, be beautiful and buy American.’ We need everybody to buy American – that’s what will stimulate the economy.”_**
+> **“We are celebrating our 25<sup>th</sup> anniversary, and our motto is ‘be safe, be beautiful and buy American.’ We need everybody to buy American – that’s what will stimulate the economy.”**
 > 
 > _-Farouk Shami, Founder of Farouk Systems Inc._
 
