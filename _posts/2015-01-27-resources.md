@@ -32,14 +32,16 @@ published: true
 
 ## Private Sector Business Guides
 
-*   [Fried Frank: Coming to America: The Legal Basics](http://bit.ly/1oylzqw)
-*   [BritishAmerican Business: American British Trade &amp; Investment 2015 - The Guide to Investing in the USA](http://tradeinvest.babinc.org/ambrit)
-*   [Baker &amp; McKenzie: Legal Guide to Doing Business in the U.S.](http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1037&amp;context=lawfirms)
-*   [Deloitte: International Tax &amp; Business Guide for the U.S.A](http://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-unitedstatesguide-2011.pdf)
-*   [Ernst &amp; Young: The Inbound Guide to US Corporate Tax](http://www.ey.com/Publication/vwLUAssets/EY_US_Inbound_brochure_en/$FILE/EY-US-Inbound-brochure-en.pdf)
-*   [Gallet Dreyer &amp; Berkey, LLP: Doing Business in the USA](http://www.gdblaw.com/images/doc/BusinessUSA_Eng.pdf)
-*   [HLB International: Doing Business in the United States](http://www.hlbi.com/index.php?option=com_content&amp;view=article&amp;id=37&amp;Itemid=19)
-*   [KPMG: Investing in the U.S.: A Guide for Foreign Companies](https://www.kpmg.com/US/en/IssuesAndInsights/ArticlesPublications/Documents/invest-in-the-us-international.pdf)*   [PricewaterhouseCoopers: Doing Business in the United States: A Guide to the Key Tax Issues](http://www.pwc.com/en_US/us/tax-services/publications/assets/doing-business-in-the-us-2014.pdf)
+*   PwC: [Doing business in
+the United States: A guide to the key taxissues](http://www.pwc.com/en_US/us/tax-services/publications/assets/doing-business-in-the-us-2014.pdf)
+*   Fried Frank: [Coming to America: The Legal Basics](http://bit.ly/1oylzqw)
+*   BritishAmerican Business: [American British Trade &amp; Investment 2015 - The Guide to Investing in the USA](http://tradeinvest.babinc.org/ambrit)
+*   Baker &amp; McKenzie: [Legal Guide to Doing Business in the U.S.](http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1037&amp;context=lawfirms)
+*   Deloitte: [International Tax &amp; Business Guide for the U.S.A](http://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-unitedstatesguide-2011.pdf)
+*   Ernst &amp; Young: [The Inbound Guide to US Corporate Tax](http://www.ey.com/Publication/vwLUAssets/EY_US_Inbound_brochure_en/$FILE/EY-US-Inbound-brochure-en.pdf)
+*   Gallet Dreyer &amp; Berkey, LLP: [Doing Business in the USA](http://www.gdblaw.com/images/doc/BusinessUSA_Eng.pdf)
+*   HLB International: [Doing Business in the United States](http://www.hlbi.com/index.php?option=com_content&amp;view=article&amp;id=37&amp;Itemid=19)
+*   KPMG: [Investing in the U.S.: A Guide for Foreign Companies](https://www.kpmg.com/US/en/IssuesAndInsights/ArticlesPublications/Documents/invest-in-the-us-international.pdf)*   [PricewaterhouseCoopers: Doing Business in the United States: A Guide to the Key Tax Issues](http://www.pwc.com/en_US/us/tax-services/publications/assets/doing-business-in-the-us-2014.pdf)
 
 ## International Trade and Investment<a name="internationaltrade"></a>
 
