@@ -11,7 +11,7 @@ published: true
 
 In December 2009, General Electric Co.’s Appliances &amp; Lighting division announced plans to increase production at its Louisville, Kentucky, location in Appliance Park over three years with three new energy efficient product lines.&nbsp; The decision to house this new production in the United States and Louisville was expected to add 830 manufacturing and engineering jobs at the facility, which represents a $600 million GE investment. 
 
-> **“We are making big investments in new products and in energy-efficient technologies that are creating American jobs.**_
+> **“We are making big investments in new products and in energy-efficient technologies that are creating American jobs.**
 > 
 > **We can’t make these products in the U.S. competitively without everyone coming to the table — unions, the Company, employees, local/state/federal officials.”**
 > 
