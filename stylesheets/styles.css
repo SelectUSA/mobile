@@ -310,6 +310,11 @@ list-style-type: none;
 font-size:16px;
 }
 
+.sub_nav {
+color: grey;
+font-weight:normal;
+}
+
 @media screen and (min-width: 768px) {
  
 .custom-collapse .collapse{
@@ -347,8 +352,8 @@ background-color:#036;
 color: #fff;
 }
 
-.navbar-custom { 
-background-color: #88A4BC;
+.navbar-custom {
+background-color:#878686;
 }
 
 .nav .navbar-nav ul {
@@ -358,12 +363,14 @@ margin-left:0;
 .navbar-custom .navbar-nav > li > a {
 line-height:1.5;
 color: #fff;
-font-weight: normal;
 }
 
 .navbar-custom .navbar-nav > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
     background-color: #6D8396;
+}
+#mob {
+display:none;
 }
 }
 
@@ -387,7 +394,6 @@ margin-left:-25px;
 .navbar-custom .navbar-nav > li > a {
 line-height:1.5;
 color: #fff;
-font-weight: normal;
 }
 
 .input-group {
@@ -405,7 +411,7 @@ max-width:100%;
 }
 
 .navbar-custom {
-background-color:#88A4BC;
+background-color:#878686;
 }
 
 .btn-primary,.label-primary,.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {background-color:#036;}
