@@ -32,8 +32,7 @@ published: true
 
 ## Private Sector Business Guides
 
-*   PwC: [Doing business in
-the United States: A guide to the key taxissues](http://www.pwc.com/en_US/us/tax-services/publications/assets/doing-business-in-the-us-2014.pdf)
+*   PwC: [Doing business in the United States: A guide to the key tax issues](http://www.pwc.com/en_US/us/tax-services/publications/assets/doing-business-in-the-us-2014.pdf)
 *   Fried Frank: [Coming to America: The Legal Basics](http://bit.ly/1oylzqw)
 *   BritishAmerican Business: [American British Trade &amp; Investment 2015 - The Guide to Investing in the USA](http://tradeinvest.babinc.org/ambrit)
 *   Baker &amp; McKenzie: [Legal Guide to Doing Business in the U.S.](http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1037&amp;context=lawfirms)
