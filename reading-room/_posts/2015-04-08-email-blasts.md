@@ -20,7 +20,7 @@ published: true
 </div>
 <ol class='form'>
 <li class='email_fields' style='display: block'>
-<label for="email"><img alt="Required.gif?3.25" class="required" src="https://public.govdelivery.com/images/required.gif?3.25.2-b369d82-E2" />Email Address</label>
+<label for="email">Email Address</label>
 <input class="long" id="email" name="email" type="text" />  <input class="form_button" name="commit" type="submit" value="Submit" />
 
 </li>
