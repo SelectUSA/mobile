@@ -16,6 +16,14 @@ Additionally, SelectUSA offers an Ombudsman service that can help resolve issues
 
 We can also be reached at 202-482-6800, Monday - Friday, 9 a.m. to 5 p.m. EST.
 
+# Join the Conversation on Twitter
+
+<a href="https://twitter.com/SelectUSA" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @SelectUSA</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=SelectUSA" class="twitter-hashtag-button" data-size="large" data-related="SelectUSA" data-dnt="true">Tweet #SelectUSA</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 # Sign Up for Email Updates
 
 <form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USITATRADE/subscribers/qualify" method="post"><input name="utf8" type="hidden" value="✓" /><input name="authenticity_token" type="hidden" value="XfpJ7XUO14X47poLC7Pxh+rmQeTCzazxMIg8+zgs6Sw=" />
