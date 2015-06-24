@@ -4245,7 +4245,8 @@ margin-right:0px;
 }
 
 .navbar-nav {
-    margin:7.5px -15px
+    margin: 7.5px -26px;
+  margin-right: -40px;
 }
 
 .navbar-nav>li>a {
