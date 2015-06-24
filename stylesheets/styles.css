@@ -297,12 +297,6 @@ width:150px;
 list-style-type: none;
 }
 
-#map {
-margin-top:30px;
-width: 550px; height: 450px;
-margin-bottom:-100px;
-margin-left:30px;
-}
 
 
 /* old drupal style
@@ -334,9 +328,7 @@ font-size:16px;
  .navbar-form {
  margin-top:20px;
  }
-  #map {
-display:none;
-}
+
 #partner {
 display:none;
 }
@@ -355,9 +347,6 @@ background-color:#036;
 color: #fff;
 }
 
-#mob {
-display:none;
-}
 .navbar-custom { 
 background-color: #88A4BC;
 }
@@ -450,9 +439,6 @@ margin-bottom:0px;
 color#fff;
 }
 
- #map {
-display:none;
-}
 #partner {
 display:none;
 }
