@@ -59,7 +59,7 @@ var simplemaps_usmap_mapdata = {
 		popup_opacity: .9,
 		popup_shadow: 1,
 		popup_corners: 5,
-		popup_font: '12px/1.5 Verdana, Arial, Helvetica, sans-serif',
+		popup_font: '12px/1.5 Open Sans, Verdana, Arial, Helvetica, sans-serif',
 		popup_nocss: 'no', //use your own css	
 		
 		//Advanced settings
@@ -276,8 +276,8 @@ var simplemaps_usmap_mapdata = {
 	'DC': { 
 		name: 'District of Columbia',
 		description: 'Office of the Dep. Mayor for Planning and Econ. Dev.<br><u>dcbiz.dc.gov</u>',
-		color: 'default',
-		hover_color: 'default',
+		color: '#D12229',
+		hover_color: '#FC6B72',
 		url: 'http://dcbiz.dc.gov',
 		hide: 'no',
 		inactive: 'no',
@@ -585,7 +585,7 @@ var simplemaps_usmap_mapdata = {
 	},
 	'GU': { 
 		name: 'Guam',
-		description: 'Economic Development Authority<br><u>',
+		description: 'Economic Development Authority<br><u>www.investguam.com</u>',
 		color: '#D12229',
 		hover_color: '#FC6B72',
 		url: 'http://www.investguam.com',
