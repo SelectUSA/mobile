@@ -11,7 +11,7 @@ var simplemaps_usmap_mapdata = {
 		//State defaults
 		state_description:   'State description',
 		state_color: '#0D3D89',
-		state_hover_color: '#042354',
+		state_hover_color: '#D12229',
 		state_url: 'http://simplemaps.com',
 		border_size: 1.5,		
 		all_states_inactive: 'no',
@@ -276,8 +276,8 @@ var simplemaps_usmap_mapdata = {
 	'DC': { 
 		name: 'District of Columbia',
 		description: 'Office of the Dep. Mayor for Planning and Econ. Dev.<br><u>dcbiz.dc.gov</u>',
-		color: '#D12229',
-		hover_color: '#7E0006',
+		color: 'default',
+		hover_color: 'default',
 		url: 'http://dcbiz.dc.gov',
 		hide: 'no',
 		inactive: 'no',
@@ -586,8 +586,8 @@ var simplemaps_usmap_mapdata = {
 	'GU': { 
 		name: 'Guam',
 		description: 'Economic Development Authority<br><u>www.investguam.com</u>',
-		color: '#D12229',
-		hover_color: '#7E0006',
+		color: 'default',
+		hover_color: 'default',
 		url: 'http://www.investguam.com',
 		hide: 'no',
 		inactive: 'no',
@@ -596,8 +596,8 @@ var simplemaps_usmap_mapdata = {
 	'VI': { 
 		name: 'Virgin Islands',
 		description: 'Dept. of Economic Development and Commerce<br><u>www.usvieda.org</u>',
-		color: '#D12229',
-		hover_color: '#7E0006',
+		color: 'default',
+		hover_color: 'default',
 		url: 'http://www.usvieda.org',
 		hide: 'no',
 		inactive: 'no',
@@ -606,8 +606,8 @@ var simplemaps_usmap_mapdata = {
 	'PR': { 
 		name: 'Puerto Rico',
 		description: 'Dept. of Economic Development and Commerce<br><u>www.ddec.pr.gov</u>',
-		color: '#D12229',
-		hover_color: '#7E0006',
+		color: 'default',
+		hover_color: 'default',
 		url: 'http://www.ddec.pr.gov',
 		hide: 'no',
 		inactive: 'no',
@@ -616,8 +616,8 @@ var simplemaps_usmap_mapdata = {
 	'MP': { 
 		name: 'Northern Mariana Islands',
 		description: 'Department of Commerce<br><u>www.commerce.gov.mp</u>',
-		color: '#D12229',
-		hover_color: '#7E0006',
+		color: 'default',
+		hover_color: 'default',
 		url: 'http://www.commerce.gov.mp',
 		hide: 'no',
 		inactive: 'no',
@@ -626,8 +626,8 @@ var simplemaps_usmap_mapdata = {
 		"AS": {
 			name: 'American Samoa',
 			description: 'Department of Commerce<br><u>doc.as.gov</u>',
-			color: '#D12229',
-			hover_color: '#7E0006',
+			color: 'default',
+			hover_color: 'default',
 			url: 'http://americansamoa.gov/',
 			hide: 'no'
 			}	
