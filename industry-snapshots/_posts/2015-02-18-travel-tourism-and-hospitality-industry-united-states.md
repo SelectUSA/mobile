@@ -36,27 +36,26 @@ Of the more than 25 subsectors that make up the travel and tourism industry, thr
 international overseas traveler growth of 7 percent in 2012.&nbsp;
 
 **Food Services:** This subsector is the second largest and accounts for more
-than 16 percent of travel and tourism-related output. The National Restaurant
-Association predicts 3.5 percent growth for the restaurant industry in
-2012.&nbsp; 
+than 16 percent of travel and tourism-related output. The [National Restaurant
+Association](http://www.restaurant.org/News-Research/News/Restaurants-projected-to-add-over-300,000-jobs-in) predicts 3.4 percent growth for the restaurant industry in
+2015.&nbsp; 
 
-**Air Travel: **This subsector accounts for nearly16 percent of travel
+**Air Travel:** This subsector accounts for nearly16 percent of travel
 industry output. Airlines continuously seek ways to increase revenue by
 offering access to new markets as they work to reduce costs and fuel
 consumption by grounding inefficient aircraft and scaling back unprofitable routes.
 
 ## **Federal Resources**
 
-**Travel Promotion Act of 2009 (TPA):**&nbsp;This Act established the Corporation
-for Travel Promotion (CTP), a new public-private partnership in travel and
-tourism. The alliance between the U.S. government and the U.S. travel and
+**Travel Promotion Act of 2009 (TPA):**&nbsp;This Act established the [Corporation
+for Travel Promotion (CTP)](http://www.thebrandusa.com/), a new public-private partnership in travel and
+tourism doing business as "Brand USA". The alliance between the U.S. government and the U.S. travel and
 tourism industry enhances the distribution of information on U.S. entry
 policies and promotes leisure, business, and scholarly travel to and within the
 United States. &nbsp;Currently, under the Travel Promotion Act, the CTP can
 access up to $100 million in federal matching funds to execute its mission
 based on a 1 to 1 ratio of public to private funds. The CTP is active in the
-top international travel markets for the United States and is doing business as
-Brand USA. &nbsp;
+top international travel markets for the United States. &nbsp;
 
 <span class="field field-type-link field-field-industry-assoications">
       <span class="field-label">Industry Associations:&nbsp;</span><br>
@@ -75,6 +74,7 @@ Brand USA. &nbsp;
                     [U.S. Travel Association](http://www.ustravel.org/)        </span>
         </span>
 </span>
+<br><br>
 <span class="field field-type-link field-field-industry-publications">
       <span class="field-label">Industry Publications:&nbsp;</span><br>
     <span class="field-items">
