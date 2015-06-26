@@ -12,20 +12,18 @@ published: true
 <span class="imgright">![American flag on a road sign in the prairie]({{ site.baseurl }}/images/travel1.jpg)</span>
 
 The travel and tourism industry in
-the United States generated nearly $1.5 trillion in economic output in 2012.
-This activity supported 7.8 million U.S. jobs, and accounted for 7 percent of
-all U.S. exports. One out of every 17 Americans works, either directly or
-indirectly, in a travel or tourism-related industry. In 2011 U.S. travel and
-tourism output represented 2.8 percent of gross domestic product. 
+the United States generated [nearly $1.5 trillion in economic output](http://travel.trade.gov/outreachpages/download_davta_table/Fast_Facts_2014.pdf) in 2013.
+This activity supported 7.8 million U.S. jobs, and accounted for more than 9 percent of
+all U.S. exports. One out of every 18 Americans is employed, either directly or
+indirectly, in a travel or tourism-related industry.  In 2014, U.S. travel and tourism output represented 2.6 percent of gross domestic product.
 
 While the majority of activity in
-the industry is domestic, expenditures by international visitors in the United
-States generated nearly $166 billion in sales and a more than $47 billion trade
-surplus in 2012.&nbsp;The U.S. Department of Commerce projects international
-travel to the United States should grow by 3 percent annually through 2018. The
+the industry is domestic, [expenditures by international visitors in the United
+States](http://travel.trade.gov/outreachpages/download_data_table/Fast_Facts_2014.pdf) generated a record-breaking $220.6 billion in sales and a $74.0 billion trade surplus in 2014.&nbsp;[According to U.S. Department of Commerce projections](http://travel.trade.gov/view/f-2000-99-001/forecast/Forecast_Summary.pdf), international
+travel to the United States should grow by 4.3 percent annually through 2020. The
 U.S. leads the world in international travel and tourism exports, and travel
-and tourism is the top services export, accounting for 25 percent of all U.S.
-services exports. &nbsp;
+and tourism is the top services export, accounting for 31 percent of all U.S.
+services exports in 2014. &nbsp;
 
 ## **Industry Subsectors**
 
