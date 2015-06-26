@@ -8,8 +8,6 @@ tags: [Electronics and Industrial Equipment, Information and Communication Techn
 published: true
 ---
 
-## The U.S. Software and IT Services&nbsp;Industry
-
 <span class="imgright">![information technology worker with cabling]({{ site.baseurl }}/images/it1.jpg)</span>The United States has the most advanced software and information technology services industry in the world.&nbsp;
 
 The industry has increased its revenue by an average of six percent between 2010 and 2011, totaling $606 billion in 2011. Overall, research and development spending in the United States information and communications technology (ICT) sectors increased by 6.3 percent to $126.3 billion in 2011. The United States accounts for more than 55 percent&nbsp;of global ICT research and development.
@@ -37,5 +35,27 @@ The International Data Corporation (IDC) estimates that U.S. demand for software
                     [Information Technology Industry Council](http://www.itic.org/)        </span><br>
               <span class="field-item odd">
                     [Software and Information Industry Association](http://www.siia.net/)        </span>
+              <span class="field-item even">
+                    [Computer & Communications Industry Association (CCIA)](http://www.ccianet.org/)        </span><br>
+              <span class="field-item odd">
+                    [CompTIA](http://http://www.comptia.org/)        </span><br>
+        </span>
+</span>
+<br><br>
+<span class="field field-type-link field-field-industry-publications">
+      <span class="field-label">Industry Publications:&nbsp;</span><br>
+    <span class="field-items">
+            <span class="field-item odd">
+                    [SDTimes](http://sdtimes.com/)        </span><br>
+              <span class="field-item even">
+                    [Computerworld](http://www.computerworld.com/)        </span><br>
+              <span class="field-item odd">
+                    [Computing Now](http://www.computer.org/web/computingnow)        </span><br>
+              <span class="field-item even">
+                    [Computer Weekly](http://www.computerweekly.com/)        </span>
         </span>
 </span><br>
+<br>
+
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/SelectUSA/lists/software-it-news" data-widget-id="614512901571788800">Tweets from https://twitter.com/SelectUSA/lists/software-it-news</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
