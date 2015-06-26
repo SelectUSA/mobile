@@ -8,8 +8,6 @@ tags: [Chemicals and Pharmaceuticals]
 published: true
 ---
 
-## The U.S. Chemical Industry
-
 The
 chemicals industry is one of the United States’ largest manufacturing
 industries, serving both a sizable domestic market and an expanding global
