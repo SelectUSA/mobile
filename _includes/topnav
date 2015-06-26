@@ -3,9 +3,9 @@
         <div class="container-fluid">
           <div class="navbar-header">
           
-          <div ><a class="btn btn-default center-block hidden-lg hidden-md hidden-sm" href="{{ site.baseurl }}{{ post.url }}/frequently-asked-questions.html">FAQs</a></div>
+         <!-- <div ><a class="btn btn-default center-block hidden-lg hidden-md hidden-sm" href="{{ site.baseurl }}{{ post.url }}/frequently-asked-questions.html">FAQs</a></div>
           <div ><a class="btn btn-default center-block hidden-lg hidden-md hidden-sm" href="{{ site.baseurl }}{{ post.url }}/contact-us.html">Contact Us</a></div> 
-          <div ><a class="btn btn-default center-block hidden-lg hidden-md hidden-sm" href="https://service.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_22">Sign Up</a></div>          
+          <div ><a class="btn btn-default center-block hidden-lg hidden-md hidden-sm" href="https://service.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_22">Sign Up</a></div>  -->        
             
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" style="border-left-width: 0px;border-top-width: 0px;border-right-width: 0px;border-bottom-width: 0px;">
               <span class="sr-only">Toggle navigation</span>
@@ -84,6 +84,9 @@
 <li><a href="{{ site.baseurl }}{{ post.url }}/2015-summit.html" title="SELECTUSA 2015 INVESTMENT SUMMIT" >2015 Summit</a></li>
 <li><a href="{{ site.baseurl }}{{ post.url }}/events.html" title="Upcoming Events" >Upcoming Events</a></li>
 <li><a href="{{ site.baseurl }}{{ post.url }}/past-events.html" title="Past Events">Past Events</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/frequently-asked-questions.html" title="Past Events">FAQs</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/contact-us.html" title="Past Events">Contact Us</a></li>
+<li><a href="https://service.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_22" title="Past Events">Sign Up</a></li>
 </ul>
         </div>
           </div><!--/.nav-collapse -->
