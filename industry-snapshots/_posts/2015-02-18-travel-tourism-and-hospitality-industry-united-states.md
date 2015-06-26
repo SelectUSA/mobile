@@ -7,8 +7,6 @@ industry: Travel, Tourism & Hospitality
 tags: [Travel; Tourism & Hospitality]
 published: true
 ---
-## The U.S. Travel, Tourism, and Hospitality Industry
-
 <span class="imgright">![American flag on a road sign in the prairie]({{ site.baseurl }}/images/travel1.jpg)</span>
 
 The travel and tourism industry in
