@@ -8,8 +8,6 @@ tags: [aerospace]
 published: true
 ---
 
-## The U.S. Aerospace Industry
-
 <span class="imgright">![737 on the production line]({{ site.baseurl }}/images/dv174006-262x357.jpg)</span>
 
 <span>In 2012, the U.S. aerospace
