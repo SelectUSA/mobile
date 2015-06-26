@@ -338,6 +338,9 @@ font-style: italic;
 #partner {
 display:none;
 }
+#maptext {
+display:none;
+}
 #banner {
 display:none;
 }
