@@ -2,6 +2,8 @@
 permalink: "career-opportunities.html"
 layout: default
 title: Career Opportunities
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

@@ -2,6 +2,8 @@
 permalink: "investment-incentives/rural-development-energy-programs.html"
 layout: default
 title: Rural Development Energy Programs
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

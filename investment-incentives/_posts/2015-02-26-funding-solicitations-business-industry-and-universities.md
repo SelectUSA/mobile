@@ -2,6 +2,8 @@
 permalink: "investment-incentives/funding-solicitations-business-industry-and-universities.html"
 layout: default
 title: Funding Solicitations for Business, Industry, and Universities
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

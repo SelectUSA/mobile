@@ -2,6 +2,8 @@
 permalink: "investment-incentives/office-energy-efficiency-and-renewable-energy-funding.html"
 layout: default
 title: Office of Energy Efficiency and Renewable Energy Funding
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

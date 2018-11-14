@@ -2,6 +2,8 @@
 permalink: "event-calendar.html"
 layout: default
 title: Event Calendar
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

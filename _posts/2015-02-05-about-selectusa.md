@@ -2,6 +2,8 @@
 permalink: "about-selectusa.html"
 layout: default
 title: About SelectUSA
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

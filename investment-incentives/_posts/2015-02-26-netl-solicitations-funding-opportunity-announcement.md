@@ -2,6 +2,8 @@
 permalink: "investment-incentives/netl-solicitations-funding-opportunity-announcement.html"
 layout: default
 title: NETL Solicitations / Funding Opportunity Announcement
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

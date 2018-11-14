@@ -2,6 +2,8 @@
 permalink: "investment-incentives/renewable-energy-research-and-development-arra.html"
 layout: default
 title: Renewable Energy Research and Development (ARRA)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

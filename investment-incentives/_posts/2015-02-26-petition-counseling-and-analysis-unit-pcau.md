@@ -2,6 +2,8 @@
 permalink: "investment-incentives/petition-counseling-and-analysis-unit-pcau.html"
 layout: default
 title: Petition Counseling and Analysis Unit (PCAU)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

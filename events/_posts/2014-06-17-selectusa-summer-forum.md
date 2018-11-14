@@ -2,6 +2,8 @@
 permalink: "events/selectusa-summer-forum.html"
 layout: sidebar
 title: SelectUSA Summer Forum
+redirect_to:
+  - https://www.selectusa.gov
 date-display-start: Tue, 06/17/2014
 date-display-end:  Tue, 06/17/2014
 calendar-start: 2014-06-17

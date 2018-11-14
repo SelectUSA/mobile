@@ -2,6 +2,8 @@
 permalink: "testimonials/astrum-solar-0.html"
 layout: sidebar
 title: Astrum Solar
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 ---

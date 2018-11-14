@@ -2,6 +2,8 @@
 permalink: "selectusa-newsletters.html"
 layout: default
 title: SelectUSA Newsletters
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

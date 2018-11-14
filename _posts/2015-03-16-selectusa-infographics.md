@@ -2,6 +2,8 @@
 permalink: "selectusa-infographics.html"
 layout: default
 title: SelectUSA Infographics
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 ![Australia]({{base.url}}/images/australia-633x317.png "Australia")

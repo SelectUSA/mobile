@@ -2,6 +2,8 @@
 permalink: "business-solutions-investors.html"
 layout: default
 title: Business Solutions for Investors
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

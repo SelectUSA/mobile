@@ -2,6 +2,8 @@
 permalink: "investment-incentives/office-intellectual-property-rights-oipr.html"
 layout: default
 title: The Office of Intellectual Property Rights (OIPR)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

@@ -2,6 +2,8 @@
 permalink: "investment-incentives/us-foreign-trade-zones-ftz-program.html"
 layout: default
 title: U.S. Foreign-Trade Zones (FTZ) Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

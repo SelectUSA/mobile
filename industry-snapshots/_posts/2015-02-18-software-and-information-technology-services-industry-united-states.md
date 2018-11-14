@@ -3,6 +3,8 @@ permalink: "industry-snapshots/software-and-information-technology-services-indu
 layout: sidebar
 section: industry-snapshots
 title: The Software and Information Technology Services Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Software & Information Technology Services
 tags: [Electronics and Industrial Equipment, Information and Communication Technology]
 published: true

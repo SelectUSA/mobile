@@ -2,6 +2,8 @@
 permalink: "investment-incentives/employment-training-administration-grants.html"
 layout: default
 title: Employment & Training Administration Grants
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

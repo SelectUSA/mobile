@@ -2,6 +2,8 @@
 permalink: "they-chose-usa.html"
 layout: sidebar
 title: Testimonials
+redirect_to:
+  - https://www.selectusa.gov
 published: true 
 --- 
 

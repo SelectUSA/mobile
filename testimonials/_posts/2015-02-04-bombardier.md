@@ -2,6 +2,8 @@
 permalink: "testimonials/bombardier.html"
 layout: sidebar
 title: Bombardier
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 ---

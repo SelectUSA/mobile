@@ -2,6 +2,8 @@
 permalink: "investment-incentives/multifamiliy-real-estate-sale.html"
 layout: default
 title: Multifamiliy Real Estate for Sale
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

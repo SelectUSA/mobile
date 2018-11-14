@@ -2,6 +2,8 @@
 permalink: "investment-incentives/advocacy-center.html"
 layout: default
 title: The Advocacy Center
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

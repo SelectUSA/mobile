@@ -3,6 +3,8 @@ permalink: "industry-snapshots/chemical-industry-united-states.html"
 layout: sidebar
 section: industry-snapshots
 title: The Chemical Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Chemical
 tags: [Chemicals and Pharmaceuticals]
 published: true

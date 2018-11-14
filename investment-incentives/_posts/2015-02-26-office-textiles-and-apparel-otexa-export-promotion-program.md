@@ -2,6 +2,8 @@
 permalink: "investment-incentives/office-textiles-and-apparel-otexa-export-promotion-program.html"
 layout: default
 title: Office of Textiles and Apparel (OTEXA) Export Promotion Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

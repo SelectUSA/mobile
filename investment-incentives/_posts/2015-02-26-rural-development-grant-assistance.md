@@ -2,6 +2,8 @@
 permalink: "investment-incentives/rural-development-grant-assistance.html"
 layout: default
 title: Rural Development Grant Assistance
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

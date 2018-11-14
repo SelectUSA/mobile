@@ -2,6 +2,8 @@
 permalink: "investment-incentives/farmers-market-promotion-program-fmpp.html"
 layout: default
 title: Farmers Market Promotion Program (FMPP)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

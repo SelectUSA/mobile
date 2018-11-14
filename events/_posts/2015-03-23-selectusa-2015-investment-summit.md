@@ -2,6 +2,8 @@
 permalink: "events/selectusa-2015-investment-summit.html"
 layout: sidebar
 title: SelectUSA 2015 Investment Summit
+redirect_to:
+  - https://www.selectusa.gov
 date-display-start: March 23
 date-display-end: 24, 2015
 calendar-start: 2015-03-23

@@ -2,6 +2,8 @@
 permalink: "grantsgov.html"
 layout: default
 title: Grants.gov
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

@@ -2,6 +2,8 @@
 permalink: "investment-incentives/national-institutes-health-nih-small-business-innovation-and-research-sbir-gra.html"
 layout: default
 title: National Institutes of Health (NIH), Small Business Innovation and Research (SBIR) Grant Applications
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

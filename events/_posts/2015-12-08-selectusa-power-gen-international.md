@@ -2,6 +2,8 @@
 permalink: "events/selectusa-power-gen-international.html"
 layout: sidebar
 title: SelectUSA at POWER-GEN International
+redirect_to:
+  - https://www.selectusa.gov
 date-display-start: December 8
 date-display-end: 10, 2015
 calendar-start: 2015-12-08

@@ -2,6 +2,8 @@
 permalink: "investment-incentives/small-business-innovation-research-program-and-small-business-technology-trans.html"
 layout: default
 title: Small Business Innovation Research Program and Small Business Technology Transfer Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

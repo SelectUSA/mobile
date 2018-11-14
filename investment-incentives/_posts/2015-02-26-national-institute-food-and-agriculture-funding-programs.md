@@ -2,6 +2,8 @@
 permalink: "investment-incentives/national-institute-food-and-agriculture-funding-programs.html"
 layout: default
 title: National Institute of Food and Agriculture Funding Programs
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

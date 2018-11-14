@@ -2,6 +2,8 @@
 permalink: "investment-incentives/fisheries-finance-program.html"
 layout: default
 title: Fisheries Finance Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

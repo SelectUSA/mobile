@@ -2,6 +2,8 @@
 permalink: "investment-incentives/sustainable-manufacturing-initiative-smi.html"
 layout: default
 title: Sustainable Manufacturing Initiative (SMI)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

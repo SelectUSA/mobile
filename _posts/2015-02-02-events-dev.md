@@ -2,6 +2,8 @@
 permalink: "events-dev.html"
 layout: sidebar
 title: Events
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

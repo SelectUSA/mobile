@@ -3,6 +3,8 @@ permalink: "industry-snapshots/logistics-and-transportation-industry-united-stat
 layout: sidebar
 section: industry-snapshots
 title: The Logistics and Transportation Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Logistics & Transportation
 tags: [Logistics and Transportation]
 published: true

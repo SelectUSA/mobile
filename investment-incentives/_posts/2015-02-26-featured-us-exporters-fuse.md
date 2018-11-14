@@ -2,6 +2,8 @@
 permalink: "investment-incentives/featured-us-exporters-fuse.html"
 layout: default
 title: Featured U.S. Exporters (FUSE)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

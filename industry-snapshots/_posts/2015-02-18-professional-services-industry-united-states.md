@@ -3,6 +3,8 @@ permalink: "industry-snapshots/professional-services-industry-united-states.html
 layout: sidebar
 section: industry-snapshots
 title: The Professional Services Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Professional Services
 tags: [Professional Services (Legal; Accounting; etc.)]
 published: true

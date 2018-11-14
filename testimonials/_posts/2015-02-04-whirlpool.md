@@ -2,6 +2,8 @@
 permalink: "testimonials/whirlpool.html"
 layout: sidebar
 title: Whirlpool
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 ---

@@ -2,6 +2,8 @@
 permalink: "investment-incentives/united-states-trade-development-agency-ustda.html"
 layout: default
 title: United States Trade Development Agency (USTDA)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

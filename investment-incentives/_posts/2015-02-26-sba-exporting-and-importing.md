@@ -2,6 +2,8 @@
 permalink: "investment-incentives/sba-exporting-and-importing.html"
 layout: default
 title: SBA Exporting and Importing
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

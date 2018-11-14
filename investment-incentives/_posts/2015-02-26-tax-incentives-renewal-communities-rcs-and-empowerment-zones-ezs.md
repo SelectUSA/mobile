@@ -2,6 +2,8 @@
 permalink: "investment-incentives/tax-incentives-renewal-communities-rcs-and-empowerment-zones-ezs.html"
 layout: default
 title: Tax incentives in Renewal Communities (RCs) and Empowerment Zones (EZs)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

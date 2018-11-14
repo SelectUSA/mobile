@@ -3,6 +3,8 @@ permalink: "industry-snapshots/consumer-goods-industry-united-states.html"
 layout: sidebar
 section: industry-snapshots
 title: The Consumer Goods Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Consumer Goods
 tags: [Consumer Goods, Food; Beverage and Restaurant Manufacturing, Retail Trade]
 published: true

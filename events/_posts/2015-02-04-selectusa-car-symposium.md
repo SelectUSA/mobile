@@ -2,6 +2,8 @@
 permalink: "events/selectusa-car-symposium.html"
 layout: sidebar
 title: SelectUSA at CAR-Symposium
+redirect_to:
+  - https://www.selectusa.gov
 date-display-start: Wed, 2/04/2015
 date-display-end: Wed, 2/04/2015
 calendar-start: 2015-02-04

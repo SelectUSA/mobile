@@ -2,6 +2,8 @@
 permalink: "investment-incentives/national-institute-standards-and-technology-measurement-services.html"
 layout: default
 title: National Institute of Standards and Technology Measurement Services
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

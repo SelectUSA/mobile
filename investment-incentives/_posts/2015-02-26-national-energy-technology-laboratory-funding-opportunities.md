@@ -2,6 +2,8 @@
 permalink: "investment-incentives/national-energy-technology-laboratory-funding-opportunities.html"
 layout: default
 title: National Energy Technology Laboratory Funding Opportunities
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

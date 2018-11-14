@@ -5,7 +5,8 @@ permalink: "press-releases.html"
 layout: sidebar
 
 title: Press Releases and Speeches
-
+redirect_to:
+  - https://www.selectusa.gov
 section: reading-room
 
 published: true

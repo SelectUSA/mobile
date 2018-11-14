@@ -2,6 +2,8 @@
 permalink: "testimonials/asco-industries.html"
 layout: sidebar
 title: ASCO Industries
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 ---

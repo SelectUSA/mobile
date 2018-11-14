@@ -2,6 +2,8 @@
 permalink: "contact-us.html"
 layout: default
 title: Contact Us
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 --- 
 

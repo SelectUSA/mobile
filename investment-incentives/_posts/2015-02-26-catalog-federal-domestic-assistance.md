@@ -2,6 +2,8 @@
 permalink: "investment-incentives/catalog-federal-domestic-assistance.html"
 layout: default
 title: Catalog of Federal Domestic Assistance
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

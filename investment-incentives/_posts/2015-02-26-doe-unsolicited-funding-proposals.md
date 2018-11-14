@@ -2,6 +2,8 @@
 permalink: "investment-incentives/doe-unsolicited-funding-proposals.html"
 layout: default
 title: DOE Unsolicited Funding Proposals
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

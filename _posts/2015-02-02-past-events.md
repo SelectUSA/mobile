@@ -2,6 +2,8 @@
 permalink: "past-events.html"
 layout: sidebar
 title: Past Events
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

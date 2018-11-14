@@ -5,7 +5,8 @@ permalink: "reading-room.html"
 layout: sidebar
 
 title: Blog Posts
-
+redirect_to:
+  - https://www.selectusa.gov
 section: reading-room
 
 published: true

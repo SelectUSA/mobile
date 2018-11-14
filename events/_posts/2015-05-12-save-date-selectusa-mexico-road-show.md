@@ -2,6 +2,8 @@
 permalink: "events/save-date-selectusa-mexico-road-show.html"
 layout: sidebar
 title: SelectUSA Mexico Road Show
+redirect_to:
+  - https://www.selectusa.gov
 date-display-start: May 12
 date-display-end: 14, 2015
 calendar-start: 2015-05-12

@@ -3,6 +3,8 @@ permalink: "press-releases/obama-administration-showcase-america-premier-destina
 layout: default
 section: press-releases
 title: Obama Administration to Showcase America as Premier Destination for Investors at Investment Summit
+redirect_to:
+  - https://www.selectusa.gov
 published: false
 ---
 **FOR IMMEDIATE RELEASE**

@@ -2,6 +2,8 @@
 permalink: "advanced-technology-vehicle-manufacturing-atvm-loan-program.html"
 layout: default
 title: Advanced Technology Vehicle Manufacturing (ATVM) Loan Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

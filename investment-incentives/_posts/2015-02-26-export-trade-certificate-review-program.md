@@ -2,6 +2,8 @@
 permalink: "investment-incentives/export-trade-certificate-review-program.html"
 layout: default
 title: Export Trade Certificate of Review Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

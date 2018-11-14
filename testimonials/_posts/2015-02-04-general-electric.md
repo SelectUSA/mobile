@@ -2,6 +2,8 @@
 permalink: "testimonials/general-electric.html"
 layout: sidebar
 title: General Electric
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 ---

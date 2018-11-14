@@ -3,6 +3,8 @@ permalink: "industry-snapshots/pharmaceutical-and-biotech-industries-united-stat
 layout: sidebar
 section: industry-snapshots
 title: The Pharmaceutical and Biotech Industries in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Pharmaceuticals & Biotech
 tags: [Chemicals and Pharmaceuticals]
 published: true

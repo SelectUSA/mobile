@@ -2,6 +2,8 @@
 permalink: "investment-incentives/baldrige-performance-excellence-program.html"
 layout: default
 title: Baldrige Performance Excellence Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 **Department of the Commerce**

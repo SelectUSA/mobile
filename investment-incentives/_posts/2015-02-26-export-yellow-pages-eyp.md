@@ -2,6 +2,8 @@
 permalink: "investment-incentives/export-yellow-pages-eyp.html"
 layout: default
 title: The Export Yellow Pages (EYP)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

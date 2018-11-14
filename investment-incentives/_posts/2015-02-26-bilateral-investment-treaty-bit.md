@@ -2,6 +2,8 @@
 permalink: "investment-incentives/bilateral-investment-treaty-bit.html"
 layout: default
 title: Bilateral Investment Treaty (BIT)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

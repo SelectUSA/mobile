@@ -2,6 +2,8 @@
 permalink: "investment-incentives/clean-energy-loan-guarantee-program.html"
 layout: default
 title: Clean Energy Loan Guarantee Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

@@ -2,6 +2,8 @@
 permalink: "investment-incentives/trade-missions-program.html"
 layout: default
 title: Trade Missions Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

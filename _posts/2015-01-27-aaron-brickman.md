@@ -2,6 +2,8 @@
 permalink: "aaron-brickman.html"
 layout: default
 title: Aaron Brickman
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

@@ -2,6 +2,8 @@
 permalink: "events/selectusa-taiwan-road-show.html"
 layout: sidebar
 title: SelectUSA Taiwan Road Show
+redirect_to:
+  - https://www.selectusa.gov
 date-display-start: August 5
 date-display-end: 6, 2015
 calendar-start: 2015-08-05

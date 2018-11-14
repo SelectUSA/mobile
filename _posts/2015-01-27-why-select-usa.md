@@ -2,6 +2,8 @@
 permalink: "why-select-usa.html"
 layout: default
 title: "Why Select USA?"
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

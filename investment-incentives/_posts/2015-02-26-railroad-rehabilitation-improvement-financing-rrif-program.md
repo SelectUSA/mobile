@@ -2,6 +2,8 @@
 permalink: "investment-incentives/railroad-rehabilitation-improvement-financing-rrif-program.html"
 layout: default
 title: Railroad Rehabilitation & Improvement Financing (RRIF) Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

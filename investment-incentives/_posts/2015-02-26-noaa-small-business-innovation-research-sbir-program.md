@@ -2,6 +2,8 @@
 permalink: "investment-incentives/noaa-small-business-innovation-research-sbir-program.html"
 layout: default
 title: NOAA Small Business Innovation Research (SBIR) Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

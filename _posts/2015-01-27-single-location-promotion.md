@@ -2,6 +2,8 @@
 permalink: "single-location-promotion.html"
 layout: default
 title: Single Location Promotion
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

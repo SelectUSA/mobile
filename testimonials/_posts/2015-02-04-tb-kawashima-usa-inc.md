@@ -2,6 +2,8 @@
 permalink: "testimonials/tb-kawashima-usa-inc.html"
 layout: sidebar
 title: TB Kawashima USA Inc.
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 tags: [Automotive, Manufacturing, South Carolina, Textiles]

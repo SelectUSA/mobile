@@ -2,6 +2,8 @@
 permalink: "investment-incentives/international-buyer-program-ibp.html"
 layout: default
 title: International Buyer Program (IBP)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

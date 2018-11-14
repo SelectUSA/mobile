@@ -2,6 +2,8 @@
 permalink: "reading-room.html"
 layout: default
 title: Reading Room
+redirect_to:
+  - https://www.selectusa.gov
 published: false
 ---
 

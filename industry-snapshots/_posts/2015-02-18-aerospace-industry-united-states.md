@@ -3,6 +3,8 @@ permalink: "industry-snapshots/aerospace-industry-united-states.html"
 layout: sidebar
 section: industry-snapshots
 title: The Aerospace Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Aerospace
 tags: [aerospace]
 published: true

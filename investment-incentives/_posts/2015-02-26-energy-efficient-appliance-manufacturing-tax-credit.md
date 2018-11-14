@@ -2,6 +2,8 @@
 permalink: "investment-incentives/energy-efficient-appliance-manufacturing-tax-credit.html"
 layout: default
 title: Energy-Efficient Appliance Manufacturing Tax Credit
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

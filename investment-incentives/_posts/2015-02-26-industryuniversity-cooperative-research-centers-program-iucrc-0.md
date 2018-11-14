@@ -2,6 +2,8 @@
 permalink: "investment-incentives/industryuniversity-cooperative-research-centers-program-iucrc-0.html"
 layout: default
 title: Industry/University Cooperative Research Centers Program (I/UCRC)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

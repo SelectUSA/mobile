@@ -2,6 +2,8 @@
 permalink: "economic-development-organization-counseling.html"
 layout: default
 title: Economic Development Organization Counseling
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

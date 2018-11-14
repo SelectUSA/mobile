@@ -2,6 +2,8 @@
 permalink: "investment-incentives/business-energy-tax-credit.html"
 layout: default
 title: Business Energy Tax Credit
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

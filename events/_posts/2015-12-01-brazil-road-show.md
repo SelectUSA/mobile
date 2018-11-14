@@ -2,6 +2,8 @@
 permalink: "events/selectusa-brazil-road-show.html"
 layout: sidebar
 title: Save the Date - SelectUSA Brazil Road Show
+redirect_to:
+  - https://www.selectusa.gov
 date-display-start: December 1
 date-display-end: 4, 2015
 calendar-start: 2015-12-01

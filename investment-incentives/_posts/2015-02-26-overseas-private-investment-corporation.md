@@ -2,6 +2,8 @@
 permalink: "investment-incentives/overseas-private-investment-corporation.html"
 layout: default
 title: Overseas Private Investment Corporation
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

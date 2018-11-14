@@ -2,6 +2,8 @@
 permalink: "industry-snapshots.html"
 layout: sidebar
 title: Industry Snapshots
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

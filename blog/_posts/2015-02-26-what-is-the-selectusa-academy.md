@@ -3,6 +3,8 @@ permalink: "blog/what-is-the-selectusa-academy.html"
 layout: sidebar
 section: blog
 title: What is the SelectUSA Academy?}
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 date: February 26, 2015
 source: International Trade Administration

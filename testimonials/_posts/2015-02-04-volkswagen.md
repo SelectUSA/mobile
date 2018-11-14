@@ -2,6 +2,8 @@
 permalink: "testimonials/volkswagen.html"
 layout: sidebar
 title: Volkswagen
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 tags: [Automotive]

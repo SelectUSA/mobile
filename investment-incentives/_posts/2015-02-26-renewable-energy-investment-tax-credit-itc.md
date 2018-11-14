@@ -2,6 +2,8 @@
 permalink: "investment-incentives/renewable-energy-investment-tax-credit-itc.html"
 layout: default
 title: Renewable Energy Investment Tax Credit (ITC)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

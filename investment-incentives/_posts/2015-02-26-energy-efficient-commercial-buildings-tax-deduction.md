@@ -2,6 +2,8 @@
 permalink: "investment-incentives/energy-efficient-commercial-buildings-tax-deduction.html"
 layout: default
 title: Energy-Efficient Commercial Buildings Tax Deduction
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

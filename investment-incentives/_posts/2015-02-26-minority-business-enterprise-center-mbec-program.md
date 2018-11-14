@@ -2,6 +2,8 @@
 permalink: "investment-incentives/minority-business-enterprise-center-mbec-program.html"
 layout: default
 title: Minority Business Enterprise Center (MBEC) Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

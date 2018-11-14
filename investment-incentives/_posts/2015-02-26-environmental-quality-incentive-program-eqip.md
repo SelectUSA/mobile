@@ -2,6 +2,8 @@
 permalink: "investment-incentives/environmental-quality-incentive-program-eqip.html"
 layout: default
 title: Environmental Quality Incentive Program (EQIP)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

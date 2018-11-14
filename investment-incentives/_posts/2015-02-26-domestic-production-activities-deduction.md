@@ -2,6 +2,8 @@
 permalink: "investment-incentives/domestic-production-activities-deduction.html"
 layout: default
 title: Domestic Production Activities Deduction
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

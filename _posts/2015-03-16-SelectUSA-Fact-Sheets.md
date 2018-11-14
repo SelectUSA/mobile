@@ -2,6 +2,8 @@
 permalink: "selectusa-fact-sheets.html"
 layout: default
 title: SelectUSA Fact Sheets
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

@@ -2,6 +2,8 @@
 permalink: "investment-incentives/native-american-business-enterprise-center-nabec-program.html"
 layout: default
 title: Native American Business Enterprise Center (NABEC) Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

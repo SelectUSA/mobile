@@ -2,6 +2,8 @@
 permalink: "testimonials/régitex-usa-llc.html"
 layout: sidebar
 title: Régitex USA LLC
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 ---

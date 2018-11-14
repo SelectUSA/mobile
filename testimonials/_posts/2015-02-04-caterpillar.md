@@ -2,6 +2,8 @@
 permalink: "testimonials/caterpillar.html"
 layout: sidebar
 title: Caterpillar
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 ---

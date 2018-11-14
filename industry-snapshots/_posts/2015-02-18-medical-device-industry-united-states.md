@@ -3,6 +3,8 @@ permalink: "industry-snapshots/medical-device-industry-united-states.html"
 layout: sidebar
 section: industry-snapshots
 title: The Medical Device Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Medical Technology
 tags: [Department of Health and Human Services]
 published: true

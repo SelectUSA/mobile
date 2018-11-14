@@ -2,6 +2,8 @@
 permalink: "investment-incentives/grantsgov.html"
 layout: default
 title: Grants.gov
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 Grants.gov is your source to find and apply for federal grants. Grants.gov is a central storehouse for information on grants from multiple federal agencies. Grants.gov lists over 1,000 grant programs and provides access to approximately $500 billion in annual awards.

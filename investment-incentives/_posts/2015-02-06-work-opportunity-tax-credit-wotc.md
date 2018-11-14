@@ -2,6 +2,8 @@
 permalink: "investment-incentives/work-opportunity-tax-credit-wotc.html"
 layout: default
 title: Work Opportunity Tax Credit (WOTC)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

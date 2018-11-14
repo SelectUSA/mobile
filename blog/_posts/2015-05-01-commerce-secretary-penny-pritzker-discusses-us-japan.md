@@ -3,6 +3,8 @@ permalink: "blog/commerce-secretary-penny-pritzker-discusses-us-japan.html"
 layout: sidebar
 section: blog
 title: Commerce Secretary Penny Pritzker Discusses U.S.-Japan Relationship in Los Angeles
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 date: May 1, 2015
 source: Department of Commerce

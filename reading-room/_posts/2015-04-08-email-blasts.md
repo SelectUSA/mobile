@@ -5,7 +5,8 @@ permalink: "email-updates.html"
 layout: sidebar
 
 title: Email Updates
-
+redirect_to:
+  - https://www.selectusa.gov
 section: reading-room
 
 published: true

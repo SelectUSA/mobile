@@ -2,6 +2,8 @@
 permalink: "investment-incentives/recovery-act-grants-national-institutes-health-nih.html"
 layout: default
 title: Recovery Act Grants - National Institutes of Health (NIH)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

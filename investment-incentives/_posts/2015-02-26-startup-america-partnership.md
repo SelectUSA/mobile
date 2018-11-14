@@ -2,6 +2,8 @@
 permalink: "investment-incentives/startup-america-partnership.html"
 layout: default
 title: Startup America Partnership
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

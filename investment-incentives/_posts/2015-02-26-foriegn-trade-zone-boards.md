@@ -2,6 +2,8 @@
 permalink: "investment-incentives/foriegn-trade-zone-boards.html"
 layout: default
 title: Foriegn Trade Zone Boards
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

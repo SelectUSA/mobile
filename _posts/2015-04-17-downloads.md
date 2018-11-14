@@ -2,6 +2,8 @@
 permalink: "downloads.html"
 layout: default
 title: Download Photos
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

@@ -2,6 +2,8 @@
 permalink: "investment-incentives/trade-adjustment-assistance-firms.html"
 layout: default
 title: Trade Adjustment Assistance for Firms
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

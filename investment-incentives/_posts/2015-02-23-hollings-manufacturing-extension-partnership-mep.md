@@ -2,6 +2,8 @@
 permalink: "investment-incentives/hollings-manufacturing-extension-partnership-mep.html"
 layout: default
 title: Hollings Manufacturing Extension Partnership (MEP)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

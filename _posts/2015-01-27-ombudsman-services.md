@@ -2,6 +2,8 @@
 permalink: "ombudsman-services.html"
 layout: default
 title: Ombudsman Services
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

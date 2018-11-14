@@ -3,6 +3,8 @@ permalink: "industry-snapshots/semiconductors.html"
 layout: sidebar
 section: industry-snapshots
 title: Semiconductors
+redirect_to:
+  - https://www.selectusa.gov
 industry: Semiconductors
 tags: [Semiconductors]
 published: true

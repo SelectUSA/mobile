@@ -3,6 +3,8 @@ permalink: "industry-snapshots/environmental-technology-industry-united-states.h
 layout: sidebar
 section: industry-snapshots
 title: The Environmental Technology Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Environmental Technology
 published: true
 ---

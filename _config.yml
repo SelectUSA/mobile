@@ -1,6 +1,8 @@
 name: Website
 highlighter: pygments
 baseurl: http://selectusa.github.io/mobile
+plugins:
+  - jekyll-redirect-from
 exclude:
   - .bundle
   - .git

@@ -3,6 +3,8 @@ permalink: "blog/North-Carolina-Attracts-FDI-in Manufacturing-and-Textiles.html"
 layout: sidebar
 section: blog
 title: North Carolina Attracts FDI in Manufacturing and Textiles
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 date: March 13, 2015
 source: International Trade Administration

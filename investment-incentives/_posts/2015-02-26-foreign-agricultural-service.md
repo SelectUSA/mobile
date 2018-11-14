@@ -2,6 +2,8 @@
 permalink: "investment-incentives/foreign-agricultural-service.html"
 layout: default
 title: Foreign Agricultural Service
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

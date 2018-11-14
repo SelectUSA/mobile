@@ -2,6 +2,8 @@
 permalink: "incentives-feed.html"
 layout: default
 title: Incetives Feed
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 --- 
 

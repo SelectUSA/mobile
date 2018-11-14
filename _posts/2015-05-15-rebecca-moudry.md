@@ -2,6 +2,8 @@
 permalink: "rebecca-moudry.html"
 layout: default
 title: Rebecca Moudry
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

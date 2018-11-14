@@ -2,6 +2,8 @@
 permalink: "investment-incentives/renewable-energy-grants.html"
 layout: default
 title: Renewable Energy Grants
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

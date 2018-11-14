@@ -3,6 +3,8 @@ permalink: "industry-snapshots/financial-services-industry-united-states.html"
 layout: sidebar
 section: industry-snapshots
 title: The Financial Services Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Financial Services
 tags: [Financial Services, Professional Services (Legal, Accounting, etc.)]
 published: true

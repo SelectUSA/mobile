@@ -5,7 +5,8 @@ permalink: "white-house-fact-sheets.html"
 layout: sidebar
 
 title: White House Fact Sheets
-
+redirect_to:
+  - https://www.selectusa.gov
 section: reading-room
 
 published: true

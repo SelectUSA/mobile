@@ -2,6 +2,8 @@
 permalink: "investment-incentives/free-trade-agreement.html"
 layout: default
 title: Free Trade Agreement
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

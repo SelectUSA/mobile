@@ -2,6 +2,8 @@
 permalink: "investment-incentives/building-energy-efficiency-through-innovative-thermodevices-beetit.html"
 layout: default
 title: Building Energy Efficiency Through Innovative Thermodevices (BEETIT)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

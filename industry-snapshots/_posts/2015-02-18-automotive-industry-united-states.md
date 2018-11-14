@@ -3,6 +3,8 @@ permalink: "industry-snapshots/automotive-industry-united-states.html"
 layout: sidebar
 section: industry-snapshots
 title: The Automotive Industry in the United States
+redirect_to:
+  - https://www.selectusa.gov
 industry: Automotive
 tags: [Automotive, Manufacturing]
 published: true

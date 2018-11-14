@@ -2,6 +2,8 @@
 permalink: "testimonials/emergent-biosolutions.html"
 layout: sidebar
 title: Emergent BioSolutions
+redirect_to:
+  - https://www.selectusa.gov
 section: testimonials
 published: true
 ---

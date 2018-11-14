@@ -2,6 +2,8 @@
 permalink: "investment-incentives/fedconnect.html"
 layout: default
 title: FedConnect
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

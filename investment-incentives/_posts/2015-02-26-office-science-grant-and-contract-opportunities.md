@@ -2,6 +2,8 @@
 permalink: "investment-incentives/office-science-grant-and-contract-opportunities.html"
 layout: default
 title: Office of Science Grant and Contract Opportunities
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

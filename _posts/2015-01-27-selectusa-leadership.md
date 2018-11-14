@@ -2,6 +2,8 @@
 permalink: "selectusa-leadership.html"
 layout: default
 title: SelectUSA Leadership
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

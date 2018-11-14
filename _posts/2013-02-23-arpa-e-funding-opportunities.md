@@ -2,6 +2,8 @@
 permalink: "arpa-e-funding-opportunities.html"
 layout: default
 title: ARPA-E Funding Opportunities
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

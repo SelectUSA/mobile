@@ -2,6 +2,8 @@
 permalink: "investment-incentives/modified-accelerated-cost-recovery-system-macrs.html"
 layout: default
 title: Modified Accelerated Cost-Recovery System (MACRS)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

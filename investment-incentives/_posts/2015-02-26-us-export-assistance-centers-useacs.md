@@ -2,6 +2,8 @@
 permalink: "investment-incentives/us-export-assistance-centers-useacs.html"
 layout: default
 title: U.S. Export Assistance Centers (USEACs)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

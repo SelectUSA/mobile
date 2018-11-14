@@ -2,6 +2,8 @@
 permalink: "investment-incentives/trade-information-center-tic.html"
 layout: default
 title: Trade Information Center (TIC)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

@@ -2,6 +2,8 @@
 permalink: "events/selectusa-hannover-messe.html"
 layout: sidebar
 title: SelectUSA at Hannover Messe 2015
+redirect_to:
+  - https://www.selectusa.gov
 date-display-start: April 13
 date-display-end: 17, 2015
 calendar-start: 2015-04-13

@@ -2,6 +2,8 @@
 permalink: "investment-incentives/research-partnership-secure-energy-america.html"
 layout: default
 title: Research Partnership to Secure Energy for America
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

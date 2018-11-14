@@ -2,6 +2,8 @@
 permalink: "investment-incentives/eb-5-visa-immigrant-investors.html"
 layout: default
 title: EB-5 Visa for Immigrant Investors
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

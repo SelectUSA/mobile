@@ -2,6 +2,8 @@
 permalink: "investment-incentives/international-science-and-education-competitive-grants-program-ise.html"
 layout: default
 title: International Science and Education Competitive Grants Program (ISE)
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

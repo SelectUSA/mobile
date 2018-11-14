@@ -2,6 +2,8 @@
 permalink: "investment-incentives/market-development-cooperator-program.html"
 layout: default
 title: Market Development Cooperator Program
+redirect_to:
+  - https://www.selectusa.gov
 published: true
 ---
 

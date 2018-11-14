@@ -2,6 +2,8 @@
 permalink: "events/save-date-national-aerospace-fdi-exposition.html"
 layout: sidebar
 title: National Aerospace FDI Exposition
+redirect_to:
+  - https://www.selectusa.gov
 date-display-start: October 26
 date-display-end: 28, 2015
 calendar-start: 2015-10-26
